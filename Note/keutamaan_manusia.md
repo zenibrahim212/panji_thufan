@@ -1,1 +1,0 @@
-[[Menghargai Keutamaan Manusia]], [[nilai keutamaan manusia]] dilihat dari: senioritas, jejak pengorbanan fisabilillah dan tsabat.
