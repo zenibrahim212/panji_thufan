@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "faedah_01"
             }
+          },
+          {
+            "id": "222194ceb2b2d788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/faedah_04_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "faedah_04_1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/faedah_01.md",
+                "file": "Literature/faedah_04_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/faedah_01.md",
+                "file": "Literature/faedah_04_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/faedah_01.md",
+                "file": "Literature/faedah_04_1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,9 +200,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "697aeed3a57c6ff2",
-  "lastOpenFiles": []
+  "active": "222194ceb2b2d788",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Literature/faedah_04_1.md",
+    "Literature/faedah_04.md",
+    "Literature/faedah_01.md",
+    "Literature/readme.md",
+    "Literature/faedah_03.md"
+  ]
 }
