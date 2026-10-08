@@ -7,7 +7,7 @@ tags:
   - panji_thufan
   - jihad_kehidupan
 ---
-# Mengutamakan Keselamatan, Stabilitas Keamaan dan Ekonomi Jalan Menuju Neraka
+# Mengutamakan Keselamatan, Stabilitas Keamanan dan Ekonomi Jalan Menuju Neraka
 
 بعد الخلوة والتفكر علمت أن إيثار السلامة والأمان والإستقرار الأمني والإقتصادي هو طريق إلى النار، «خفت النار بالشهوات وحفت الجنة بالمكاره». (ص ٨٦)
 

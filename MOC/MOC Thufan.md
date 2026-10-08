@@ -9,5 +9,5 @@ Map of Content Faedah Tahta Royati Thufan
 8. [[faedah_05]] - Siapa Mengutamakan Keselamatan Dalam Segala Hal Tidak Akan Memperoleh Apapun
 9. [[faedah_06]] - Jihad adalah Kehidupan Hakiki, Tidak Mengurangi Umur Justru Menambah Usia
 10. [[faedah_07]] - Perdamaian dan Keamanan Menyeret Jiwa Tunduk Pada Dunia
-11. [[faedah_07_1]] - Mengutamakan Keselamatan, Stabilitas Keamaan dan Ekonomi Jalan Menuju Neraka
+11. [[faedah_07_1]] - Mengutamakan Keselamatan, Stabilitas Keamanan dan Ekonomi Jalan Menuju Neraka
 12. [[faedah_07_2]] - Sesungguhnya maslahat keuntungan jihad sebagian besar seputar akhirat, bahkan mungkin saja kita tidak memetik sedikitpun buahnya di dunia
