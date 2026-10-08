@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "697aeed3a57c6ff2",
+            "id": "a0179f58fdfd2e8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_01.md",
+                "file": "Literature/faedah_07_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faedah_01"
+              "title": "faedah_07_2"
             }
           },
           {
-            "id": "222194ceb2b2d788",
+            "id": "1aeb26d1b3dc1da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_04_1.md",
+                "file": "MOC/MOC Thufan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faedah_04_1"
+              "title": "MOC Thufan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/faedah_04_1.md",
+                "file": "Literature/faedah_07_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/faedah_04_1.md",
+                "file": "Literature/faedah_07_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/faedah_04_1.md",
+                "file": "Literature/faedah_07_2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,13 +203,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "222194ceb2b2d788",
+  "active": "a0179f58fdfd2e8e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Literature/faedah_07_1.md",
+    "Literature/faedah_07.md",
+    "Literature/faedah_06.md",
+    "MOC/MOC Thufan.md",
+    "Literature/faedah_07_2.md",
+    "Literature/faedah_05.md",
+    "Literature/faedah_02_1.md",
+    "Literature/faedah_02.md",
     "Literature/faedah_04_1.md",
     "Literature/faedah_04.md",
+    "Literature/faedah_03.md",
+    "Literature/faedah_01_1.md",
     "Literature/faedah_01.md",
-    "Literature/readme.md",
-    "Literature/faedah_03.md"
+    "MOC",
+    "Note/Macam-macam cara membangun pemahaman fikih.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Literature/readme.md"
   ]
 }

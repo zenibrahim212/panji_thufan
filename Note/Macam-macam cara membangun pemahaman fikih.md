@@ -1,0 +1,1 @@
+Thufan hal 43 catatan kaki 1
