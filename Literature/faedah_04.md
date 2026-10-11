@@ -12,3 +12,4 @@ tags:
 
 Sesungguhnya prestasi ibadah agung Sayiduna Khabab bukan shalat malam, menghafal matan ilmiah, sedekah tathawu' dan bukan pula aktivitas sosial... Tetapi menyambut luka borok. Inilah keistimewaan ibadah Sayiduna Khabab. Inilah hal yang hubunganmu dengan Allah tidak mungkin akan matang hingga kamu menenggelamkan diri didalamnya. (hal. 43)
 
+#panji_thufan #ujian_fisabilillah
