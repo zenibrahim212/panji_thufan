@@ -33,3 +33,8 @@ Map of Content Faedah Tahta Royati Thufan
 32. [[faedah_23]] - Apabila Allah menghendaki kebaikan pada hamba, Dia akan membuka baginya pintu amal dan menutup pintu debat. Dan jika Allah menghendaki selain hal itu, Dia akan menyibukkan padanya perdebatan dan menutup pintu amal.
 33. [[faedah_24]] - Barang siapa yang memperisai ruhnya dari perbuatan buruk, Allah akan menjaga ruhnya di dalam tembolok burung hijau terbang bebas kemanapun ia suka. 
 34. [[faedah_25]] - Kita tidak dibebani syariat menghancurkan total musuh, hanya dibebani idad dan melawan sesuai kemampuan.
+35. [[faedah_26]] - Allah ingin kita menjalankan perintah dan menyerahkan semua hasilnya pada Allah. 
+36. [[faedah_27]] - Selama kita mewujudkan kepatuhan pada perintah Allah, artinya kita berada dalam kebaikan dengan pertolongan Allah.
+37. [[faedah_28]] - Inti utama segala urusan di sisi Allah adalah pada keikhlasan niat seseorang bukan menurut hawa nafsu.
+38. [[faedah_28_1]] - Jihad tergantung niat, maka arahkan pandangan kalian pada niat, karena niat adalah jatuhnya pandangan Allah.
+39. [[faedah_28_2]] - Sungguh kita membutuhkan ikhlas hingga pada jabatan dan posisi.
