@@ -36,5 +36,5 @@ Map of Content Faedah Tahta Royati Thufan
 35. [[faedah_26]] - Allah ingin kita menjalankan perintah dan menyerahkan semua hasilnya pada Allah. 
 36. [[faedah_27]] - Selama kita mewujudkan kepatuhan pada perintah Allah, artinya kita berada dalam kebaikan dengan pertolongan Allah.
 37. [[faedah_28]] - Inti utama segala urusan di sisi Allah adalah pada keikhlasan niat seseorang bukan menurut hawa nafsu.
-38. [[faedah_28_1]] - Jihad tergantung niat, maka arahkan pandangan kalian pada niat, karena niat adalah jatuhnya pandangan Allah.
+38. [[faedah_28_1]] - Jihad tergantung niat, maka arahkan pandangan pada niat, karena niat adalah jatuhnya pandangan Allah.
 39. [[faedah_28_2]] - Sungguh kita membutuhkan ikhlas hingga pada jabatan dan posisi.
