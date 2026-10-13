@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_28_2.md",
+                "file": "MOC/MOC Thufan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faedah_28_2"
+              "title": "MOC Thufan"
             }
           }
         ]
@@ -188,9 +188,12 @@
   },
   "active": "1aeb26d1b3dc1da7",
   "lastOpenFiles": [
-    "Literature/faedah_28_1.md",
+    "Literature/faedah_31.md",
     "MOC/MOC Thufan.md",
+    "Literature/faedah_30.md",
+    "Literature/faedah_29.md",
     "Literature/faedah_28_2.md",
+    "Literature/faedah_28_1.md",
     "Literature/faedah_26.md",
     "Literature/faedah_28.md",
     "Literature/faedah_27.md",
@@ -211,9 +214,6 @@
     "Literature/faedah_13.md",
     "Literature/faedah_11.md",
     "Literature/faedah_10_1.md",
-    "Literature/faedah_10.md",
-    "Literature/faedah_09.md",
-    "Literature/faedah_08.md",
     "MOC"
   ]
 }

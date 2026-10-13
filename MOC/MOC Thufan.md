@@ -38,3 +38,6 @@ Map of Content Faedah Tahta Royati Thufan
 37. [[faedah_28]] - Inti utama segala urusan di sisi Allah adalah pada keikhlasan niat seseorang bukan menurut hawa nafsu.
 38. [[faedah_28_1]] - Jihad tergantung niat, maka arahkan pandangan pada niat, karena niat adalah jatuhnya pandangan Allah.
 39. [[faedah_28_2]] - Sungguh kita membutuhkan ikhlas hingga pada jabatan dan posisi.
+40. [[faedah_29]] - Jihad disyariatkan untuk menjaga nyawa muslim dan menyelamatkan satu nyawa muslim lebih baik dari membunuh orang kafir.
+41. [[faedah_30]] - Sesungguhnya jalan menuju janah sesulit ini, tetapi dengan konsisten tsabat (keteguhan) dapat mengantarkan salik (sang pengembara) sampai pada negeri yang tidak pernah merasa haus dan kekurangan pakaian.
+42. [[faedah_31]] - Wujudkanlah sifat-sifat aslimu sebagai hamba, niscaya Dia akan membantumu dengan sifat-sifat-Nya. Wujudkanlah kefakiranmu pada-Nya niscara dia akan membantumu dengan kekayaan-Nya. Wujudkanlah kelemahanmu dihadapan-Nya, niscaya Dia akan membantumu dengan kekuatan-Nya.
