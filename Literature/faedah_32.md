@@ -15,3 +15,5 @@ Para dokter telah memberikan pengorbanan yang lebih banyak dari seharusnya. AKu 
 Sesungguhnya yang harus kita tegaskan adalah; pegawai medis, pegawai negeri sipil dan kepolisian mereka semua adalah mujahid saat kondisi negara dalam perang. Wajib atas mereka beramal untuk Allah bukan gaji. (hal. 73)
 
 Sesungguhnya bagian dari pelaksanaan agama adalah ketika direktur rumah sakit, kepala kepolisian, kepala daerah dan kepala sekolah menyadari mereka mujahid fisabilillah. (hal. 73)
+
+#panji_thufan 

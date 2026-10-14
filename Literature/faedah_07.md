@@ -1,12 +1,3 @@
----
-title: Membangun Pemahaman Fiqih Melalui Ujian Fisabilillah
-author: Zen Ibrahim
-date: 08-10-2026
-update:
-tags:
-  - panji_thufan
-  - jihad_kehidupan
----
 # Perdamaian dan Keamanan Menyeret Jiwa Condong Pada Dunia
 
 مرت العشرون يوما الأولى، وقد كانت الهمم بعون الله تناطح الكواكب في السماء، ثم جاءت الأخبار من المستوى الأعلى: غدا قد تكون هناك هدنة، غدا قد تنتهي الحرب، فركنت النفس إلى الدنيا قليلا، وذهبت تتذكر المتاع والحرث، ولعلها كانت حيلة من اليهود الماكرين. (ص ٤٦)

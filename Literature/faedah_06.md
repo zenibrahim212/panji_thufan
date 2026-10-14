@@ -1,12 +1,3 @@
----
-title: Jihad adalah Kehidupan Hakiki, Tidak Mengurangi Umur Justru Menambah Usia
-author: Zen Ibrahim
-date: 08-10-2026
-update:
-tags:
-  - panji_thufan
-  - jihad_kehidupan
----
 # Jihad adalah Kehidupan Hakiki, Tidak Mengurangi Umur Justru Menambah Usia
 
 إن الحياة الحقيقة هي في خنادق الجهاد، فمن طلب الموت وهبه الله الحياة، إن كمية القنابل لا تنقص الأعمار. (ص ٤٦)

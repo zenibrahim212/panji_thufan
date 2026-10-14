@@ -46,3 +46,6 @@ Map of Content Faedah Tahta Royati Thufan
 45. [[faedah_34]] - Hendaknya kita membebaskan diri dari keterkaitan dunia. 
 46. [[faedah_35]] - Sesungguhnya cita-cita paling mahal adalah mati syahid saat sedang menjalankan tugas perannya, dan inilah kemenangan yang agung.
 47. [[faedah_36]] - Kehidupan tidak dapat digerakkan dan dipimpin oleh orang yang tidak ikhlas.
+48. [[faedah_37]] - Tabiat bangsa Arab dermawan.
+49. [[faedah_38]] - Penduduk yang melarang para mujahidin berlindung (bermalam di rumahnya) telah melakukan dosa.
+50. [[faedah_39]] - Memberikan naungan dan pertolongan pada mujahidin adalah fokus kampanye ketika negara dalam perang.

@@ -1,11 +1,3 @@
----
-title: Siapa Mengutamakan Keselamatan Dalam Segala Hal Tidak Akan Memperoleh Apapun
-author: Zen Ibrahim
-date: 07-10-2026
-update:
-tags:
-  - panji_thufan
----
 
 # Siapa Mengutamakan Keselamatan Dalam Segala Hal Tidak Akan Memperoleh Apapun
 

@@ -1,12 +1,3 @@
----
-title: Mengutamakan Keselamatan, Stabilitas Keamaan dan Ekonomi Jalan Menuju Neraka
-author: Zen Ibrahim
-date: 08-10-2026
-update:
-tags:
-  - panji_thufan
-  - jihad_kehidupan
----
 # Mengutamakan Keselamatan, Stabilitas Keamanan dan Ekonomi Jalan Menuju Neraka
 
 بعد الخلوة والتفكر علمت أن إيثار السلامة والأمان والإستقرار الأمني والإقتصادي هو طريق إلى النار، «خفت النار بالشهوات وحفت الجنة بالمكاره». (ص ٨٦)

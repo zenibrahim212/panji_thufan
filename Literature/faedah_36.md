@@ -8,3 +8,4 @@ Sesungguhnya kehidupan tidak dapat digerakkan dan dipimpin oleh para pencari jab
 
 Sesungguhnya dunia tidak tidak akan baik kecuali jika digerakkan dan dipimpin melalui tangan pencari akhirat, karena memberi dan mengambil bagi pencari akhirat adalah sama. (hal. 92)
 
+#panji_thufan 
