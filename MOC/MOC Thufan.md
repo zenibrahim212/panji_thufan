@@ -41,3 +41,8 @@ Map of Content Faedah Tahta Royati Thufan
 40. [[faedah_29]] - Jihad disyariatkan untuk menjaga nyawa muslim dan menyelamatkan satu nyawa muslim lebih baik dari membunuh orang kafir.
 41. [[faedah_30]] - Sesungguhnya jalan menuju janah sesulit ini, tetapi dengan konsisten tsabat (keteguhan) dapat mengantarkan salik (sang pengembara) sampai pada negeri yang tidak pernah merasa haus dan kekurangan pakaian.
 42. [[faedah_31]] - Wujudkanlah sifat-sifat aslimu sebagai hamba, niscaya Dia akan membantumu dengan sifat-sifat-Nya. Wujudkanlah kefakiranmu pada-Nya niscara dia akan membantumu dengan kekayaan-Nya. Wujudkanlah kelemahanmu dihadapan-Nya, niscaya Dia akan membantumu dengan kekuatan-Nya.
+43. [[faedah_32]] - Tenaga medis dalam perang adalah mujahid yang berjihad.
+44. [[faedah_33]] - Semua pegawai, petugas dan relawan yang terbunuh dalam perang mereka mati syahid.
+45. [[faedah_34]] - Hendaknya kita membebaskan diri dari keterkaitan dunia. 
+46. [[faedah_35]] - Sesungguhnya cita-cita paling mahal adalah mati syahid saat sedang menjalankan tugas perannya, dan inilah kemenangan yang agung.
+47. [[faedah_36]] - Kehidupan tidak dapat digerakkan dan dipimpin oleh orang yang tidak ikhlas.
