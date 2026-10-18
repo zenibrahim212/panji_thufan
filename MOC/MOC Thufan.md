@@ -58,4 +58,6 @@ Map of Content Faedah Tahta Royati Thufan
 57. [[faedah_46]] - Cara taubat bagi pelaku penjarahan.
 58. [[faedah_47]] - Membeli barang curian atau jarahan hukumnya haram.
 59. [[faedah_48]] - Perpustakaan pribadi akan memperbaiki pribadi pemiliknya.
-60. [[faedah_49]] - 21 kitab yang direkomendasikan Syeikh Muhammad Zaki Ahmad.
+60. [[faedah_49]] - 22 kitab yang direkomendasikan Syeikh Muhammad Zaki Ahmad.
+61. [[faedah_50]] - Kitab Nahwa Tafisr Maudhu'i Lisuwaril Quran karya Syeikh Muhammad Al-Ghazali telah membuka cakrawala yang sangat luas dalam memahami isi kandungan surat-surat Al-Quran.
+62. [[faedah_51]] - Jika ulama wafat, sesungguhnya ilmunya tidak ikut mati.

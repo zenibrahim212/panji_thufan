@@ -1,4 +1,4 @@
-# 21 kitab yang direkomendasikan Syeikh Muhammad Zaki Ahmad.
+# 22 kitab yang direkomendasikan Syeikh Muhammad Zaki Ahmad.
 
 ١. نحو تفسير موضوعي لسور القرآن، محمد الغزالي.
 ٢. الشهيد نزار ريان محدثا ومجاهدا.
@@ -21,4 +21,6 @@
 ١٩. وأظلمت المدينة وفاة النبي صلى الله عليه وسلم، نزار ريان.
 ٢٠. سراج الغرباء، محمد محمد الأسطل.
 ٢١. كل سر تخفية فإن الله سيبديه، محمد محمد الأسطل.
+٢٢. شرح على كتاب الورع للإمام أحمد، نزار ريان.
 
+#panji_thufan #kitab_rekomendasi 
