@@ -46,6 +46,16 @@ Map of Content Faedah Tahta Royati Thufan
 45. [[faedah_34]] - Hendaknya kita membebaskan diri dari keterkaitan dunia. 
 46. [[faedah_35]] - Sesungguhnya cita-cita paling mahal adalah mati syahid saat sedang menjalankan tugas perannya, dan inilah kemenangan yang agung.
 47. [[faedah_36]] - Kehidupan tidak dapat digerakkan dan dipimpin oleh orang yang tidak ikhlas.
-48. [[faedah_37]] - Tabiat bangsa Arab dermawan.
+48. [[faedah_37]] - # Tabiat bangsa Arab adalah dermawan.
 49. [[faedah_38]] - Penduduk yang melarang para mujahidin berlindung (bermalam di rumahnya) telah melakukan dosa.
 50. [[faedah_39]] - Memberikan naungan dan pertolongan pada mujahidin adalah fokus kampanye ketika negara dalam perang.
+51. [[faedah_40]] - Kedermawanan tidak terlihat di masa damai dan lapang, melainkan pada saat kondisi-kondisi sulit.
+52. [[faedah_41]] - Tamu datang membawa rizki, dan membawa keberkahan bagi tuan rumah bila memuliakannya.
+53. [[faedah_42]] - Orang yang menginginkan Islam tanpa resiko telah kehilangan pemahaman keislamannya.
+54. [[faedah_43]] - Merupakan kedaruratan mengambil kasur, selimut dan beberapa makanan yang dibutuhkan yang telah ditinggalkan oleh pengungsi lain saat mereka mengosongkan rumah. 
+55. [[faedah_44]] - Penjarahan adalah haram walau alasan darurat.
+56. [[faedah_45]] - Sesungguhnya yang haram selamanya hukumnya tetap haram walaupun seluruh manusia melanggarnya.
+57. [[faedah_46]] - Cara taubat bagi pelaku penjarahan.
+58. [[faedah_47]] - Membeli barang curian atau jarahan hukumnya haram.
+59. [[faedah_48]] - Perpustakaan pribadi akan memperbaiki pribadi pemiliknya.
+60. [[faedah_49]] - 21 kitab yang direkomendasikan Syeikh Muhammad Zaki Ahmad.
