@@ -61,3 +61,9 @@ Map of Content Faedah Tahta Royati Thufan
 60. [[faedah_49]] - 22 kitab yang direkomendasikan Syeikh Muhammad Zaki Ahmad.
 61. [[faedah_50]] - Kitab Nahwa Tafisr Maudhu'i Lisuwaril Quran karya Syeikh Muhammad Al-Ghazali telah membuka cakrawala yang sangat luas dalam memahami isi kandungan surat-surat Al-Quran.
 62. [[faedah_51]] - Jika ulama wafat, sesungguhnya ilmunya tidak ikut mati.
+63. [[faedah_52]] - Membuat musuh marah adalah adalah tindakan alim merdeka yang tidak ridha pada penindasan.
+64. [[faedah_53]] - Kebatilan tidak sepatutnya mendominasi dan mengendalikan al-haq.
+65. [[faedah_54]] - Orang-orang yang berwawasan dangkal meyakini sebagian nash-nash syariat itu cukup hanya dengan melihatmu memandang al-haq sebatas pengetahuan dan wawasan teori belaka.
+66. [[faedah_55]] - Nash-nash syariat harus terinternalisasi dalam jiwa seorang mukmin untuk membentuk pribadi muslim yang teguh yang mampu menghadapi kebatilan.
+67. [[faedah_56]] - Allah mencegah bencana menimpa umat ini dengan sebab pengembaraan (rihlah) ahlul hadits.
+68. [[faedah_57]] - Allah melarang kita berkumpul dan bermajelis dengan orang-orang yang menggembosi agama dan membangkitkan keragu-raguan dalam keimanan kita.
