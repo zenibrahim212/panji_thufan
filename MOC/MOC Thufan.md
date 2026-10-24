@@ -73,4 +73,9 @@ Map of Content Faedah Tahta Royati Thufan
 72. [[faedah_61]] - Tidak ada kesedihan dalam memilih keputusan, karena Allah Dialah yang memilihkan jalan.
 73. [[faedah_61_1]] - Jika tidak menemukan amir dan komunikasi terputus, sedangkan perkaranya membutuhkan inisiatif, maka majulah ke garda depan sebagai teladan yang bersedia berkorban dan mengerahkan segenap kemampuan, serta memohonlah pertolongan pada Allah.
 74. [[faedah_62]] - Mendorong warga kembali menempati wilayah yang telah ditinggalkan dan hancur serta menciptakan sisa-sisa kehidupan disana merupakan salah satu bentuk ibadah perlawanan dan jihad.
-75. [[faedah_63]] - Syiar aktivis sosial adalah: Beramal, memberi dan berharap pahalanya disisi Allah.
+75. [[faedah_63]] - Syiar aktivis sosial adalah: Beramal dan memberi serta berharap pahalanya disisi Allah.
+76. [[faedah_64]] - Konsep kehidupan muslim, adalah kehidupan yang terhormat di dunia ini atau kehidupan yang mulia di sisi Allah. Menjaga kehidupan berdasar tolak ukur Allah.
+77. [[faedah_64_1]] - Keterkaitan kita dengan akhirat bukan berarti kita tidak mampu memanajemen kehidupan dunia. Sebaliknya, kita mampu memanajemennya dengan penuh kecakapan serta menanam dan mengisinya demi kehidupan akhirat.
+78. [[faedah_65]] - Mati dengan kematian yang mulia dan hiduplah dengan kehidupan yang mulia di Firdaus lebih baik dari pada hidup dalam kehinaan dan keterpasungan.
+79. [[faedah_66]] - Hukum-hukum menyerahkan diri pada musuh.
+80. [[faedah_67]] - Meninggalkan wilayah aman menuju zona bahaya lebih baik dari shalat malam pada lailatul qadar di depan Hajar Aswad.
