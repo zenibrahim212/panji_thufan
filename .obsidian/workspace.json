@@ -22,17 +22,31 @@
             }
           },
           {
+            "id": "40035fa288aad64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/faedah_62.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "faedah_62"
+            }
+          },
+          {
             "id": "23ee519412fbe317",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_57.md",
+                "file": "Literature/faedah_63.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faedah_57"
+              "title": "faedah_63"
             }
           },
           {
@@ -216,8 +230,15 @@
   },
   "active": "b15e5fd3d9927322",
   "lastOpenFiles": [
-    "Literature/faedah_57.md",
+    "Literature/faedah_63.md",
     "MOC/MOC Thufan.md",
+    "Literature/faedah_62.md",
+    "Literature/faedah_61_1.md",
+    "Literature/faedah_61.md",
+    "Literature/faedah_60.md",
+    "Literature/faedah_59.md",
+    "Literature/faedah_58.md",
+    "Literature/faedah_57.md",
     "Literature/faedah_56.md",
     "Literature/faedah_54.md",
     "Literature/faedah_55.md",
@@ -235,13 +256,6 @@
     "Literature/faedah_43.md",
     "Literature/faedah_42.md",
     "Literature/faedah_41.md",
-    "Literature/faedah_37.md",
-    "Literature/faedah_08.md",
-    "Literature/faedah_07_2.md",
-    "Literature/faedah_07_1.md",
-    "Literature/faedah_07.md",
-    "Literature/faedah_06 2.md",
-    "Literature/faedah_06 1.md",
     "MOC"
   ]
 }

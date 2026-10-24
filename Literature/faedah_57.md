@@ -1,4 +1,4 @@
-# Allah melarang kita berkumpul dan bermajelis dengan orang-orang yang menggembosi agama dan membangkitkan keragu-raguan dalam keimanan kita.
+# Allah melarang berkumpul dan bermajelis dengan orang-orang yang menggembosi agama dan membangkitkan keragu-raguan dalam keimanan kita.
 
 إن الله قد نهانا عن مجالسة من يضعف ديننا ويبعث الشك في إيماننا، قال تعالى: وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَٰفِقِينَ وَٱلْكَٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا. (النساء: ١٤٠) (ص ٨٦)
 

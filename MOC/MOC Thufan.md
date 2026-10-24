@@ -66,4 +66,11 @@ Map of Content Faedah Tahta Royati Thufan
 65. [[faedah_54]] - Orang-orang yang berwawasan dangkal meyakini sebagian nash-nash syariat itu cukup hanya dengan melihatmu memandang al-haq sebatas pengetahuan dan wawasan teori belaka.
 66. [[faedah_55]] - Nash-nash syariat harus terinternalisasi dalam jiwa seorang mukmin untuk membentuk pribadi muslim yang teguh yang mampu menghadapi kebatilan.
 67. [[faedah_56]] - Allah mencegah bencana menimpa umat ini dengan sebab pengembaraan (rihlah) ahlul hadits.
-68. [[faedah_57]] - Allah melarang kita berkumpul dan bermajelis dengan orang-orang yang menggembosi agama dan membangkitkan keragu-raguan dalam keimanan kita.
+68. [[faedah_57]] - Allah melarang berkumpul dan bermajelis dengan orang-orang yang menggembosi agama dan membangkitkan keragu-raguan dalam keimanan kita.
+69. [[faedah_58]] - Darah yang mengucur jauh lebih ringan dari pada kehidupan penuh kehinaan dan penindasan.
+70. [[faedah_59]] - Pasa masa-masa fitnah dan musibah besar, hendaknya meminta petunjuk dengan para ulama 'amilin bukan meminta petunjuk pada orang-orang awam qaidun (yang hanya berdiam diri).
+71. [[faedah_60]] -  Kepengecutan dalam mengambil keputusan lebih berbahaya dari kepengecutan dalam pertempuran.
+72. [[faedah_61]] - Tidak ada kesedihan dalam memilih keputusan, karena Allah Dialah yang memilihkan jalan.
+73. [[faedah_61_1]] - Jika tidak menemukan amir dan komunikasi terputus, sedangkan perkaranya membutuhkan inisiatif, maka majulah ke garda depan sebagai teladan yang bersedia berkorban dan mengerahkan segenap kemampuan, serta memohonlah pertolongan pada Allah.
+74. [[faedah_62]] - Mendorong warga kembali menempati wilayah yang telah ditinggalkan dan hancur serta menciptakan sisa-sisa kehidupan disana merupakan salah satu bentuk ibadah perlawanan dan jihad.
+75. [[faedah_63]] - Syiar aktivis sosial adalah: Beramal, memberi dan berharap pahalanya disisi Allah.
