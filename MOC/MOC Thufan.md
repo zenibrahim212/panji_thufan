@@ -80,3 +80,7 @@ Map of Content Faedah Tahta Royati Thufan
 79. [[faedah_66]] - Hukum-hukum menyerahkan diri pada musuh.
 80. [[faedah_67]] - Meninggalkan wilayah aman menuju zona bahaya lebih baik dari shalat malam pada lailatul qadar di depan Hajar Aswad.
 81. [[faedah_68]] - Orang yang tabiatnya keras belum tentu buruk.
+82. [[faedah_69]] - Cinta yang benar akan menegakkan jembatan ukhuwah yang tidak akan putus selama-lamanya.
+83. [[faedah_70]] - Kepedulian komandan atas keberlangsungan hidup pasukannya merupakan puncak rasa cinta.
+84. [[faedah_71]] - Ukhuwah yang benar akan menguatkan iman.
+85. [[faedah_72]] - Tetap hidupnya mujahidin membuat musuh marah.

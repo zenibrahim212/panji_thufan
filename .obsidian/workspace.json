@@ -22,17 +22,45 @@
             }
           },
           {
+            "id": "27f9156124486169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/faedah_73.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "faedah_73"
+            }
+          },
+          {
+            "id": "a7f8e6a4a5d6dddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/faedah_70.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "faedah_70"
+            }
+          },
+          {
             "id": "5548fd6c72b56071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_69.md",
+                "file": "Literature/faedah_71.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "faedah_69"
+              "title": "faedah_71"
             }
           }
         ],
@@ -201,11 +229,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5548fd6c72b56071",
+  "active": "27f9156124486169",
   "lastOpenFiles": [
-    "Literature/faedah_68.md",
-    "Literature/faedah_69.md",
+    "Literature/faedah_72.md",
+    "Literature/faedah_73.md",
     "MOC/MOC Thufan.md",
+    "Literature/faedah_69.md",
+    "Literature/faedah_70.md",
+    "Literature/faedah_71.md",
+    "Literature/faedah_68.md",
     "Literature/faedah_20.md",
     "Literature/faedah_18.md",
     "Literature/faedah_06.md",
@@ -225,10 +257,6 @@
     "Literature/faedah_56.md",
     "Literature/faedah_54.md",
     "Literature/faedah_55.md",
-    "Literature/faedah_53.md",
-    "Literature/faedah_52.md",
-    "Literature/faedah_51.md",
-    "Literature/faedah_50.md",
     "MOC"
   ]
 }
