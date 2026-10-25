@@ -79,3 +79,4 @@ Map of Content Faedah Tahta Royati Thufan
 78. [[faedah_65]] - Mati dengan kematian yang mulia dan hiduplah dengan kehidupan yang mulia di Firdaus lebih baik dari pada hidup dalam kehinaan dan keterpasungan.
 79. [[faedah_66]] - Hukum-hukum menyerahkan diri pada musuh.
 80. [[faedah_67]] - Meninggalkan wilayah aman menuju zona bahaya lebih baik dari shalat malam pada lailatul qadar di depan Hajar Aswad.
+81. [[faedah_68]] - Orang yang tabiatnya keras belum tentu buruk.
