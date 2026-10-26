@@ -84,3 +84,7 @@ Map of Content Faedah Tahta Royati Thufan
 83. [[faedah_70]] - Kepedulian komandan atas keberlangsungan hidup pasukannya merupakan puncak rasa cinta.
 84. [[faedah_71]] - Ukhuwah yang benar akan menguatkan iman.
 85. [[faedah_72]] - Tetap hidupnya mujahidin membuat musuh marah.
+86. [[faedah_73]] - Mujahid adalah gunung tinggi yang kokoh.
+87. [[faedah_74]] - Al-Quran mensifati orang-orang kafir dengan segelintir pasukan yang tidak memiliki kemampuan.
+88. [[faedah_75]] - Medan pertempuran penuh dengan bala dan musibah.
+89. [[faedah_76]] - Dua golongan mukmin yang berjihad; mukmin yang hidup dalam kenyamanan dan yang membiasakan diri hidup dalam penderitaan.

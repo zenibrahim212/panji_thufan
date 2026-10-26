@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_73.md",
+                "file": "Literature/faedah_76.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "faedah_73"
+              "title": "faedah_76"
             }
           },
           {
@@ -231,9 +231,12 @@
   },
   "active": "27f9156124486169",
   "lastOpenFiles": [
-    "Literature/faedah_72.md",
-    "Literature/faedah_73.md",
     "MOC/MOC Thufan.md",
+    "Literature/faedah_76.md",
+    "Literature/faedah_75.md",
+    "Literature/faedah_74.md",
+    "Literature/faedah_73.md",
+    "Literature/faedah_72.md",
     "Literature/faedah_69.md",
     "Literature/faedah_70.md",
     "Literature/faedah_71.md",
@@ -254,9 +257,6 @@
     "Literature/faedah_59.md",
     "Literature/faedah_58.md",
     "Literature/faedah_57.md",
-    "Literature/faedah_56.md",
-    "Literature/faedah_54.md",
-    "Literature/faedah_55.md",
     "MOC"
   ]
 }
