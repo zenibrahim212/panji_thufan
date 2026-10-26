@@ -91,3 +91,9 @@ Map of Content Faedah Tahta Royati Thufan
 90. [[faedah_77]] - Tidak akan mampu bersabar atas dahsyatnya bala dan lamanya bala kecuali ahli akhirat yang meyakini bahwa mereka melangkah menuju Allah dengan hati dan kesemangatan mereka bukan melangkah dengan kaki dan jasad mereka.
 91. [[faedah_78]] - Allah akan memenuhi janji-Nya pada saat makar orang-orang kafir telah mencapai puncaknya hingga meluluhkan gunung.
 92. [[faedah_78_1]] - Surat Ibrahim 46-47 lebih baik dari dunia dan seisinya di medan pertempuran.
+93. [[faedah_79]] - Allah 'azza wa jalla ketika menciptakan pertentangan antara al-haq dan al-batil memiliki tujuan untuk menghancurkan kebatilan dan menetapkan kemenangan al-haq. Kadang Allah menjalankan ketetapan ini melalui wali-walinya atau orang-orang bodoh. Maka fokus perhatian bukanlah pada orang yang tertimpa bala, melainkan pada terus berlangsungnya sunatullah pergulatan dan lenyapnya kebatilan.
+94. [[faedah_79_1]] - Apabila Allah berhekendak menjalankan sunatullah untuk menetapkan al-haq dan membatilkan al-batil maka tidak ada pilihan lain kecuali menjalankan perintah Allah tersebut.
+95. [[faedah_79_2]] - Surat Al-Ahzab adalah surat yang paling berat bagi Nabi shallallahu 'alaihi wassalam.
+96. [[faedah_80]] - bertambahnya proses penyaringan secara besar-besaran merupakan jalan untuk membinasakan dan menghancurkan orang-orang kafir. Maka setiap proses dan datangnya penderitaan menjadi tanda semakin dekatnya kemusnahan kebatilan. Artinya, bahwa Allah tidak akan menghancurkan kekuatan kekafiran kecuali setelah menimpakan kita bala dan proses penyaringan.
+97. [[faedah_81]] - mengorbankan ruh kepada Allah dan fisabilillah lebih baik dari pada hidup yang dikorbankan untuk selain Allah. Apapun yang didahulukan hamba dari pada Allah, maka tidak ada keberkahan padanya. Apabila tujuannya untuk Allah maka itu menjadi perjalanan yang indah.
+98. [[faedah_82]] - Keputusan yang cerdas adalah kamu menentukan tujuan sebelum menempuhnya.
