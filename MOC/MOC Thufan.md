@@ -88,3 +88,6 @@ Map of Content Faedah Tahta Royati Thufan
 87. [[faedah_74]] - Al-Quran mensifati orang-orang kafir dengan segelintir pasukan yang tidak memiliki kemampuan.
 88. [[faedah_75]] - Medan pertempuran penuh dengan bala dan musibah.
 89. [[faedah_76]] - Dua golongan mukmin yang berjihad; mukmin yang hidup dalam kenyamanan dan yang membiasakan diri hidup dalam penderitaan.
+90. [[faedah_77]] - Tidak akan mampu bersabar atas dahsyatnya bala dan lamanya bala kecuali ahli akhirat yang meyakini bahwa mereka melangkah menuju Allah dengan hati dan kesemangatan mereka bukan melangkah dengan kaki dan jasad mereka.
+91. [[faedah_78]] - Allah akan memenuhi janji-Nya pada saat makar orang-orang kafir telah mencapai puncaknya hingga meluluhkan gunung.
+92. [[faedah_78_1]] - Surat Ibrahim 46-47 lebih baik dari dunia dan seisinya di medan pertempuran.
