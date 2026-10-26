@@ -102,3 +102,5 @@ Map of Content Faedah Tahta Royati Thufan
 101. [[faedah_85]] - orang yang berinfak maka manfaat infaknya akan kembali pada dirinya terlebih dahulu pertama-tama di dunia, hal itu karena infak pada orang-orang yang harus ditanggung akan membuka baginya perbendaharaan Sang Raja Allah 'azza wa jalla.
 102. [[faedah_86]] - Pembelian tertinggi yang pernah dibayarkan dalam sejarah Islam demi sebuah sumur.
 103. [[faedah_87]] - Sedekah memberi air minum adalah sedekah paling agung.
+104. [[faedah_88]] - Dai perlu melakukan tajdid tema dakwah pada masyarakat. Mereka harus berbicara secara serius dan terus terang bukan dengan rasa sungkan dan berbelit-belit tentang perkara-perkara yang agung dan meninggalkan perdebatan dalam masalah khilafiyah Karena tenggelam dalam persoalan-persoalan ini bukanlah bagian dari al-qaulu as-sadid.
+105. [[faedah_89]] - Dakwah yang menyelisihi kewajiban waktu dan fase perjuangan saat ini adalah kalimat al-haq yang dimaksudkan untuk membela kebatilan.
