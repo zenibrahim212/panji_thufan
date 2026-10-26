@@ -97,3 +97,8 @@ Map of Content Faedah Tahta Royati Thufan
 96. [[faedah_80]] - bertambahnya proses penyaringan secara besar-besaran merupakan jalan untuk membinasakan dan menghancurkan orang-orang kafir. Maka setiap proses dan datangnya penderitaan menjadi tanda semakin dekatnya kemusnahan kebatilan. Artinya, bahwa Allah tidak akan menghancurkan kekuatan kekafiran kecuali setelah menimpakan kita bala dan proses penyaringan.
 97. [[faedah_81]] - mengorbankan ruh kepada Allah dan fisabilillah lebih baik dari pada hidup yang dikorbankan untuk selain Allah. Apapun yang didahulukan hamba dari pada Allah, maka tidak ada keberkahan padanya. Apabila tujuannya untuk Allah maka itu menjadi perjalanan yang indah.
 98. [[faedah_82]] - Keputusan yang cerdas adalah kamu menentukan tujuan sebelum menempuhnya.
+99. [[faedah_83]] - Aqidah irja telah meruntuhkan pemikiran daulah Islam sejak berabad-abad yang lalu dan kaum muslimin tidak mungkin akan kembali pada kejayaan peradabannya yang dahulu kecuali dengan iman dan amal perbuatan secara beriringan.
+100. [[faedah_84]] - Jihad membutuhkan panji yang jelas.
+101. [[faedah_85]] - orang yang berinfak maka manfaat infaknya akan kembali pada dirinya terlebih dahulu pertama-tama di dunia, hal itu karena infak pada orang-orang yang harus ditanggung akan membuka baginya perbendaharaan Sang Raja Allah 'azza wa jalla.
+102. [[faedah_86]] - Pembelian tertinggi yang pernah dibayarkan dalam sejarah Islam demi sebuah sumur.
+103. [[faedah_87]] - Sedekah memberi air minum adalah sedekah paling agung.

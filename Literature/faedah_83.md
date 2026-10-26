@@ -1,0 +1,7 @@
+# Aqidah irja telah meruntuhkan pemikiran daulah Islam sejak berabad-abad yang lalu dan kaum muslimin tidak mungkin akan kembali pada kejayaan peradabannya yang dahulu kecuali dengan iman dan amal perbuatan secara beriringan. 
+
+هناك متدينين لم يشرفوا الإيمان بسلوكهم، ولم يحققوا العدالة التي أمروا بإقامتها، ولم يدافعوا عن الحق الذي أمروا بنصرته، واكتفوا برفع شعار التوحيد نظريا فقط، وهذا من الإرجاء الشائع من أمد بين جماهير المسلمين، حيث يرى الكثيرون أن العمل نافلة، ومادام المرء مؤمنا بالله فهو ناج مهما فرط أو قصر! وقد هد هذا الفكر دولة الإسلام من قرون، والحق أنه لن نعود للمسلمين حضارتهم الأولى الإ بالآيمان والعمل معا. (ص ١١٢)
+
+Ada sebagian orang beragama yang tidak memuliakan iman melalui perilaku mereka, dan tidak menegakkan keadilan yang telah diperintahkan serta tidak membela al-haq yang telah diperintahkan menolongnya. Mereka mencukupkan diri hanya dengan slogan-slogan tauhid teoritis saja. Fenomena ini merupakan aqidah irja yang telah menyebar luas di tengah-tengah masyarakat muslim. Mereka menganggap bahwa amal-amalan tersebut di atas hukumnya hanya nafilah. Mereka menganggap selama seseorang beriman pada Allah maka dia akan selamat masuk surga bagaimanapun ia mengabaikan atau melalaikan kewajibannya! Pemikiran inilah yang telah meruntuhkan pemikiran daulah Islam sejak berabad-abad yang lalu. Padahal, yang benar adalah kaum muslimin tidak mungkin akan kembali pada kejayaan peradabannya yang dahulu kecuali dengan iman dan amal perbuatan secara beriringan. (hal. 112)
+
+#panji_thufan
