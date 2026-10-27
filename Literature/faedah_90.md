@@ -1,0 +1,7 @@
+# Seorang dai tidak sepatutnya menjadi orang yang lugu atau lalai mudah terperdaya. Sebaliknya ia adalah orang yang selalu waspada yang memadukan antara kekuatan dan kasih sayang, antara kehormatan dan tawadhu agar orang-orang tidak menganggapnya remeh sehingga orang-orang bodoh menginjaknya.
+
+إن الداعية لا ينبغي أن يكون درويشا ولا مغفلا، بل هو يقظ يجمع بين القوة والرحمة، وبين العزة والتواضع، حتى لا يطمع الناس فيه، فيلوكه السفهاء بأسنانهم، النبي صلى الله عليه وسلم كان عطوفا رحيما ودودا، لكنه كان مجاهدا شديد البأس، وهو الذي قيل عنه: «ما التقت كتيبتان إلا وكان النبي صلى الله عليه وسلم أول من يضرب»، والعجب بعد ذلك أنه كان صلى الله عليه وسلم إذا وعظ الصحابة رقق قلوبهم وأبكاهم. (ص ١٢٣)
+
+Sesungguhnya seorang dai tidak sepatutnya menjadi orang yang lugu atau lalai mudah terperdaya. Sebaliknya ia adalah orang yang selalu waspada yang memadukan antara kekuatan dan kasih sayang, antara kehormatan dan tawadhu agar orang-orang tidak menganggapnya remeh sehingga orang-orang bodoh menginjaknya. Nabi shallallahu 'alaihi wassalam adalah sosok yang lemah lembut pengasih lagi penyanyang. Tetapi ia juga adalah mujahid yang keras dalam pertempuran. Beliaulah yang dikatakan tentangnya: "Tidaklah dua pasukan bertemu kecuali Nabi shallallahu 'alaihi wassalam menjadi orang pertama yang menebaskan pedangnya." Dan yang menakjubkan setelah itu, Nabi shallallahu 'alaihi wassalam ketika menasihati sahabat, hati mereka menjadi lembut dan membuat mereka menangis. (hal. 123)
+
+#panji_thufan

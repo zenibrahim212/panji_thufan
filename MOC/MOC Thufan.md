@@ -46,7 +46,7 @@ Map of Content Faedah Tahta Royati Thufan
 45. [[faedah_34]] - Hendaknya kita membebaskan diri dari keterkaitan dunia. 
 46. [[faedah_35]] - Sesungguhnya cita-cita paling mahal adalah mati syahid saat sedang menjalankan tugas perannya, dan inilah kemenangan yang agung.
 47. [[faedah_36]] - Kehidupan tidak dapat digerakkan dan dipimpin oleh orang yang tidak ikhlas.
-48. [[faedah_37]] - # Tabiat bangsa Arab adalah dermawan.
+48. [[faedah_37]] - Tabiat bangsa Arab adalah dermawan.
 49. [[faedah_38]] - Penduduk yang melarang para mujahidin berlindung (bermalam di rumahnya) telah melakukan dosa.
 50. [[faedah_39]] - Memberikan naungan dan pertolongan pada mujahidin adalah fokus kampanye ketika negara dalam perang.
 51. [[faedah_40]] - Kedermawanan tidak terlihat di masa damai dan lapang, melainkan pada saat kondisi-kondisi sulit.
@@ -95,7 +95,7 @@ Map of Content Faedah Tahta Royati Thufan
 94. [[faedah_79_1]] - Apabila Allah berhekendak menjalankan sunatullah untuk menetapkan al-haq dan membatilkan al-batil maka tidak ada pilihan lain kecuali menjalankan perintah Allah tersebut.
 95. [[faedah_79_2]] - Surat Al-Ahzab adalah surat yang paling berat bagi Nabi shallallahu 'alaihi wassalam.
 96. [[faedah_80]] - bertambahnya proses penyaringan secara besar-besaran merupakan jalan untuk membinasakan dan menghancurkan orang-orang kafir. Maka setiap proses dan datangnya penderitaan menjadi tanda semakin dekatnya kemusnahan kebatilan. Artinya, bahwa Allah tidak akan menghancurkan kekuatan kekafiran kecuali setelah menimpakan kita bala dan proses penyaringan.
-97. [[faedah_81]] - mengorbankan ruh kepada Allah dan fisabilillah lebih baik dari pada hidup yang dikorbankan untuk selain Allah. Apapun yang didahulukan hamba dari pada Allah, maka tidak ada keberkahan padanya. Apabila tujuannya untuk Allah maka itu menjadi perjalanan yang indah.
+97. [[faedah_81]] - Mengorbankan ruh kepada Allah dan fisabilillah lebih baik dari pada hidup yang dikorbankan untuk selain Allah. Apapun yang didahulukan hamba dari pada Allah, maka tidak ada keberkahan padanya. Apabila tujuannya untuk Allah maka itu menjadi perjalanan yang indah.
 98. [[faedah_82]] - Keputusan yang cerdas adalah kamu menentukan tujuan sebelum menempuhnya.
 99. [[faedah_83]] - Aqidah irja telah meruntuhkan pemikiran daulah Islam sejak berabad-abad yang lalu dan kaum muslimin tidak mungkin akan kembali pada kejayaan peradabannya yang dahulu kecuali dengan iman dan amal perbuatan secara beriringan.
 100. [[faedah_84]] - Jihad membutuhkan panji yang jelas.
@@ -104,3 +104,8 @@ Map of Content Faedah Tahta Royati Thufan
 103. [[faedah_87]] - Sedekah memberi air minum adalah sedekah paling agung.
 104. [[faedah_88]] - Dai perlu melakukan tajdid tema dakwah pada masyarakat. Mereka harus berbicara secara serius dan terus terang bukan dengan rasa sungkan dan berbelit-belit tentang perkara-perkara yang agung dan meninggalkan perdebatan dalam masalah khilafiyah Karena tenggelam dalam persoalan-persoalan ini bukanlah bagian dari al-qaulu as-sadid.
 105. [[faedah_89]] - Dakwah yang menyelisihi kewajiban waktu dan fase perjuangan saat ini adalah kalimat al-haq yang dimaksudkan untuk membela kebatilan.
+106. [[faedah_90]] - Seorang dai tidak sepatutnya menjadi orang yang lugu atau lalai mudah terperdaya. Sebaliknya ia adalah orang yang selalu waspada yang memadukan antara kekuatan dan kasih sayang, antara kehormatan dan tawadhu agar orang-orang tidak menganggapnya remeh sehingga orang-orang bodoh menginjaknya.
+107. [[faedah_91]] - Fokus dai hanya pada sisi kelembutan dari perikehidupan Nabi shallallahu 'alaihi wassalam saja justru melalaikan sisi lainnya dan menguburkannya. Dan memberikan gambaran yang tidak utuh mengenai kepribadian Nabi shallallahu 'alaihi wassalam dan kepribadian mukmin yang diinginkan dan diridhai Allah 'azza wa jalla. Selain itu, sikap ini memancing kelakuan kaum munafik dan orang-orang bodoh untuk meremehkan kaum muslimin.
+108. [[faedah_92]] - Mengatur urusan manusia dan memantau urusan mereka merupakan salah satu pintu dari pintu-pintu jihad dan cabang dari cabang-cabang iman dan merupakan jalan para Nabi.
+109. [[faedah_92_1]] - Kerja-kerja sosial dan kemasyarakatan membutuhkan kelapangan dada serta sikap pertengahan antara marah dan ridha. Adapun kelapangan dada, dengannya kamu bisa menanggung beban kesukaran dan memimpin manusia. Sedangkan pertengahan dalam marah dan ridha, dengan tidak selalu bersikap tegas sepanjang waktu yang pada akhirnya menumbangkanmu, dan tidak pula bersikap lembek sepanjang waktu sehingga orang-orang bodoh menginjak-injakmu.
+110. [[faedah_93]] - Di antara bahaya kerja aktivitas sosial, kamu mengira memiliki keutamaan dihadapan manusia dengan sedekah dan bantuan pada orang lain.
