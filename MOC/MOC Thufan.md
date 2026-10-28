@@ -111,3 +111,6 @@ Map of Content Faedah Tahta Royati Thufan
 110. [[faedah_93]] - Di antara bahaya kerja aktivitas sosial, kamu mengira memiliki keutamaan dihadapan manusia dengan sedekah dan bantuan pada orang lain.
 111. [[faedah_94]] - Mendirikan pasar, menghidupkannya dan menertibkannya sebagaimana yang Allah merupakan suatu kewajiban dari kewajiban-kewajiban kaum muslimin. Maka tidak sepatutnya berdagang di pasar kita kecuali orang-orang yang memahami fikihnya.
 112. [[faedah_94_1]] - Berniaga di pasar membutuhkan kezuhudan dan ketakwaan.
+113. [[faedah_95]] - Shalat malam berfungsi memperbaiki hati. 
+114. [[faedah_95_1]] - Shalat malam memperbaiki urusan duniawi dan akhirat.
+115. [[faedah_96]] - Jihad yang dibarengi dengan shalat malam, maka dengan keduanya seorang hamba akan mencapai kedudukan yang tinggi.
