@@ -114,3 +114,6 @@ Map of Content Faedah Tahta Royati Thufan
 113. [[faedah_95]] - Shalat malam berfungsi memperbaiki hati. 
 114. [[faedah_95_1]] - Shalat malam memperbaiki urusan duniawi dan akhirat.
 115. [[faedah_96]] - Jihad yang dibarengi dengan shalat malam, maka dengan keduanya seorang hamba akan mencapai kedudukan yang tinggi.
+116. [[faedah_97]] - Hati yang tidak terdidik dalam shalat malam tidak akan kuat menghadapi jihad yang panjang dan berat.
+117. [[faedah_98]] - Diantara keutamaan shalat malam adalah ittiba' Rasul, tazkiyatun nasf dan penguatan kaidah-kaidah mujahadah.
+118. [[faedah_98_1]] - Tahajud adalah amalan tarbiyah paling agung yang dengannnya seorang muslim mentarbiyah dirinya. Dan diharapkan bagi yang melaziminya tidak jatuh kedalam jurang-jurrang fitnah, disamping adanya penempaan jiwa untuk mencapai kedudukan tinggi, penjernihan akal dan tarbiyah dalam ketersembunyian.
