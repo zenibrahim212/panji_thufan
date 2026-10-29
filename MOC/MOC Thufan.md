@@ -120,5 +120,6 @@ Map of Content Faedah Tahta Royati Thufan
 119. [[faedah_99]] - Barang siapa yang memohon pertolongan dengan qaulan tsaqilan (perkataan yang berat), niscaya Allah akan meringankan segala beban berat yang dipikulnya.
 120. [[faedah_100]] - Tingkatan seratus derajat di janah yang disiapkan Allah bagi mujahidin sudah sangat pantas untuk membuat kita meninggalkan setiap kenyamanan dunia demi meraihnya. Sesungguhnya jihad itu berdiri di atas pemutusan perkara-perkara yang dicintai hawa nafsu dan kelekatan kita terus menerus kepada Allah subhanahu wa ta'ala.
 121. [[faedah_101]] - Segala sesuatu terasa ringan dan murah di jalan Allah.
-122. [[faedah_102]] - Model tarbiyah dalam Al-Quran adalah menanamkan sikap untuk tidak terburu-buru.
-123. [[faedah_103]] - Tujuan dari turunnya bala dan musibah adalah supaya hamba tadharu' (merendah) kepada Allah dan kembali pada-Nya.
+122. [[faedah_100_1]] - Sesungguhnya jihad itu berdiri di atas pemutusan perkara-perkara yang dicintai hawa nafsu dan kelekatan kita terus menerus kepada Allah subhanahu wa ta'ala.
+123. [[faedah_102]] - Model tarbiyah dalam Al-Quran adalah menanamkan sikap untuk tidak terburu-buru.
+124. [[faedah_103]] - Tujuan dari turunnya bala dan musibah adalah supaya hamba tadharu' (merendah) kepada Allah dan kembali pada-Nya.
