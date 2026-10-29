@@ -123,3 +123,8 @@ Map of Content Faedah Tahta Royati Thufan
 122. [[faedah_100_1]] - Sesungguhnya jihad itu berdiri di atas pemutusan perkara-perkara yang dicintai hawa nafsu dan kelekatan kita terus menerus kepada Allah subhanahu wa ta'ala.
 123. [[faedah_102]] - Model tarbiyah dalam Al-Quran adalah menanamkan sikap untuk tidak terburu-buru.
 124. [[faedah_103]] - Tujuan dari turunnya bala dan musibah adalah supaya hamba tadharu' (merendah) kepada Allah dan kembali pada-Nya.
+125. [[faedah_104]] - Kembali bermaksiat secara terang-terangan setelah datangnya musibah adalah tanda ketumpulan hati. 
+126. [[faedah_104_1]] - Bertaubat kepada Allah dengan taubat nasuha adalah semboyan tahapan perjuangan saat ini.
+127. [[faedah_105]] - Karamah dicabut tatkala kita mengubah dan mengganti prinsip perjuangan.
+128. [[faedah_105_1]] - Kemenangan hilang karena lemahnya pertahanan.
+129. [[faedah_106]] - Tasawuf tercela yang tersembunyi: Mengabaikan sunatullah dan mutu ibadah demi angan-angan pertolongan gaib.
