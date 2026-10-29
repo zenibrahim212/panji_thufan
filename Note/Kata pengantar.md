@@ -1,0 +1,1 @@
+Berikan dalam kata pengantar bahwa hamas adalah sebuah negara yang menguasai gaza secara lengkap bukan ormas.
