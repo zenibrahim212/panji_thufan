@@ -117,3 +117,5 @@ Map of Content Faedah Tahta Royati Thufan
 116. [[faedah_97]] - Hati yang tidak terdidik dalam shalat malam tidak akan kuat menghadapi jihad yang panjang dan berat.
 117. [[faedah_98]] - Diantara keutamaan shalat malam adalah ittiba' Rasul, tazkiyatun nasf dan penguatan kaidah-kaidah mujahadah.
 118. [[faedah_98_1]] - Tahajud adalah amalan tarbiyah paling agung yang dengannnya seorang muslim mentarbiyah dirinya. Dan diharapkan bagi yang melaziminya tidak jatuh kedalam jurang-jurrang fitnah, disamping adanya penempaan jiwa untuk mencapai kedudukan tinggi, penjernihan akal dan tarbiyah dalam ketersembunyian.
+119. [[faedah_99]] - Barang siapa yang memohon pertolongan dengan qaulan tsaqilan (perkataan yang berat), niscaya Allah akan meringankan segala beban berat yang dipikulnya.
+120. [[faedah_100]] - Tingkatan seratus derajat di janah yang disiapkan Allah bagi mujahidin sudah sangat pantas untuk membuat kita meninggalkan setiap kenyamanan dunia demi meraihnya. Sesungguhnya jihad itu berdiri di atas pemutusan perkara-perkara yang dicintai hawa nafsu dan kelekatan kita terus menerus kepada Allah subhanahu wa ta'ala.
