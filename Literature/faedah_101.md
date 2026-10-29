@@ -9,9 +9,8 @@ Segala sesuatu terasa ringan di jalan Allah. Wahai engkau yang hidup dalam kenya
 
 Hari-hari berlalu tanpa makan. Pekan dan bulan berlalu tanpa nyala api di rumah-rumah kami. Sebagian kami keluar untuk berperang, sebagian kami terpisah dengan keluarganya tidak melihat ibu atau istri yang menyiapkan hidangan. Sesungguhnya semua hal itu ringan di jalan Allah. Allah ta'ala berfirman: "Yang demikian itu karena mereka tidak ditimpa rasa haus, kepayahan, dan kelaparan di jalan Allah; tidak pula menginjak suatu tempat yang membangkitkan kemarahan orang-orang kafir; dan tidak menimpakan suatu bencana kepada musuh, melainkan dicatatkan bagi mereka sebagai amal kebajikan dengannya. Sesungguhnya Allah tidak menyia-nyiakan pahala orang-orang yang berbuat baik." (At-Taubah: 120) (hal. 157)
 
-وعلمتنا البذل والتضحية بالنفس والأهل والمال والسكن والأمن وسائر الدنيا، كلها رخصة في سبيل الددين والجهاد في سبيل الله. (ص ٢٦٤)
+وعلمتنا البذل والتضحية بالنفس والأهل والمال والسكن والأمن وسائر الدنيا، كلها رخصة في سبيل الدين والجهاد في سبيل الله. (ص ٢٦٤)
 
-Kita diberikan pelajaran mengenai kerelaan memberi dan berkorban dengan jiwa, keluarga,harta, tempat tinggal, keamanan dan seluruh kenikmatan duniawi. Semuanya menjadi murah tak bernilai di jalan agama dan jihad fi sabilillah. (hal. 264)
-
+Kita diberikan pelajaran mengenai pengabdian dan pengorbanan dengan jiwa, keluarga,harta, tempat tinggal, keamanan dan seluruh kenikmatan duniawi. Semuanya menjadi murah tak bernilai di jalan agama dan jihad fi sabilillah. (hal. 264)
 
 #panji_thufan
