@@ -1,0 +1,33 @@
+# Islam adalah agama dan negara.
+
+من هو ابن سلول المشهور بنفاقه؟ هو رجل من الخزرج من علية القوم، اتفق الأوس والخزرج على أن يصيروه ملكا عليهم، وقبل أن يسود ابن سلول، حصلت بيعة العقبة، فأصبح الأوس والخزرة لهم سيادة وزعامة أخرى، فلا حاجة لهم بابن سلول، وهذا الموقف يؤكد على أن الإسلام من أول خطوة هو ذولة وليس دعوة فقط! 
+
+ستجدون آخرين  يريدون أن يستغفلوكم ويستغلوا عقولكم، ويزعموا: أن الإسلام دعوة لصلاح القلوب وطهرها فقط، ولا علاقة له بالسياسة!
+
+نقول: لو كان كلامهم مقبولا من ناحية شرعية، لرضي الأنصار أن تمون السلطة الدينية للنبي صلى الله عليه وسلم وتكون الزعامة السياسية لابن سلول!! لكن لم يقبلوا هذا، بل كانت الزعامة الدينية والسياسية للنبي صلى الله عليه وسلم، ومما يدل على أن الإسلام كان دولة حتى في نظر المشركين هو لهجة المشركين أنفسهم في خطاب النبي صلى الله عليه وسلم ومن معه، فقد كانوا يعتبرونهم في بداية الأمر جماعات مارقة، وكانوا يضيقون عليهم في مكة تحت شعار (نؤدب العصاة). (١٤٢)
+
+Siapakah Ibnu Salul yang terkenal dengan kenifakannya? Dia adalah tokoh terkemuka dari kabilah Khazraj. Kabilah Auz dan Khazraj telah bersepakat mengangkatnya menjadi raja. Namun sebelum Ibnu Salul dilantik, terjadi Baiat 'Aqabah sehingga Auz dan Khazraj memiliki pemimpin lain karenanya mereka tidak membutuhkan lagi Ibnu Salul. Sejarah ini menegaskan bahwa sejak pertama kali, Islam adalah negara bukan sekadar dakwah semata!
+
+Kamu akan menemukan orang-orang menipumu dan mememelintir pemahamanmu yang menyangka bahwa Islam hanyalah dakwah untuk memperbaiki hati dan menyucikannya saja, tidak ada kaitannya dengan politik!
+
+Kami katakan: Jika ucapan mereka bisa diterima secara syar'i, tentu kaum Anshar akan rela kekuasaan agama diserahkan pada Nabi shallallahu 'alaihi wassalam dan kekuasaan politik diserahkan pada Ibnu Salul!! Tetapi kaum Anshar tidak menerima hal itu. Justru, kepemimpinan agama dan politik diserahkan kepada Nabi shallallahu 'alaihi wassalam. Salah satu bukti bahwa Islam adalah negara, adalah pandangan kaum musyrikin berdasar ungkapan mereka kepada Nabi shallallahu 'alaihi wassalam dan para pengikutnya dengan menyebutnya sebagai kelompok pemberontak dan mempersulit di Makkah dengan slogan, "Penertiban kaum pembangkang." (hal. 142)
+
+إن أصل الإسلام أن يكون نظاما حاكما في الأرض، قال تعالى: «وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ اللَّهِ»
+(النساء: ٦٤)
+
+فإذا جاءالإسلام بنظام اقتصادي يحرم الربا فالربا حرام، وإذا جاء بنظام اجتماعي يلغي الطبقية، فالطبقية حرام، وإذا جاء بنظام عسكري يقرر الدفاع عن الدعوة بالقتال، فالقتال واجب. لذلك لا يمكن أن يعيش المسلمون في سياق آخر يلغي نظام الإسلام وحاكمية، قال تعالى: «إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ»
+(النساء: ١٠٥)
+
+وفال تعالى: «أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا إِلَى الطَّاغُوتِ»
+(النساء: ٦٠)
+(ص ١٤٣)
+
+Sesungguhnya dasar Islam itu adalah menjadi sistem yang memerintah di bumi. Allah ta'ala berfirman: "Kami tidak mengutus seorang rasul pun melainkan agar ia ditaati dengan izin Allah." (An-Nisa: 64)
+
+Apabila Islam datang dengan sistem ekonomi yang mengaramkan riba, maka riba itu haram. Apabila Islam datang dengan sistem sosial yang menghapuskan sistem kasta, maka kasta itu haram. Apabila Islam datang dengan sistem militer yang menetapkan pembelaan terhadap dakwah melalui perang, maka perang itu wajib. Karena itu, kaum muslimin tidak mungkin bisa hidup dalam tatanan sistem lain yang meniadakan sistem Islam dan pemerintahannya. Allah ta'ala berfirman: "Sesungguhnya Kami telah menurunkan Kitab (Al-Quran) kepadamu dengan membawa al-haq agar engkau menegakkan pemerintahan di antara manusia." (An-Nisa: 105)
+
+Allah ta'ala berfirman: "Apakah kamu tidak memperhatikan orang-orang yang mengaku dirinya telah beriman kepada apa yang diturunkan kepadamu dan kepada apa yang diturunkan sebelum kamu? Mereka hendak berhakim kepada thaghut." (An-Nisa: 60) (hal. 143)
+
+
+
+#panji_thufan
