@@ -128,3 +128,5 @@ Map of Content Faedah Tahta Royati Thufan
 127. [[faedah_105]] - Karamah dicabut tatkala kita mengubah dan mengganti prinsip perjuangan.
 128. [[faedah_105_1]] - Kemenangan hilang karena lemahnya pertahanan.
 129. [[faedah_106]] - Tasawuf tercela yang tersembunyi: Mengabaikan sunatullah dan mutu ibadah demi angan-angan pertolongan gaib.
+130. [[faedah_107]] - Tidak masuk akal berkompromi dengan musuh setelah melalui pengorbanan yang besar dengan biaya sangat mahal.
+131. [[faedah_108]] - Pemikiran dan keyakinan yang menyimpang adalah lembah at-tih.
