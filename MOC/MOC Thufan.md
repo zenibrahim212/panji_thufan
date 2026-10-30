@@ -130,3 +130,6 @@ Map of Content Faedah Tahta Royati Thufan
 129. [[faedah_106]] - Tasawuf tercela yang tersembunyi: Mengabaikan sunatullah dan mutu ibadah demi angan-angan pertolongan gaib.
 130. [[faedah_107]] - Tidak masuk akal berkompromi dengan musuh setelah melalui pengorbanan yang besar dengan biaya sangat mahal.
 131. [[faedah_108]] - Pemikiran dan keyakinan yang menyimpang adalah lembah at-tih.
+132. [[faedah_109]] - Keberlimpahan rezeki dan kenikmatan hidup namun kehilangan orientasi pemikiran dan keyakinan adalah kehidupan luntang-tuntung dalam lembah at-tih.
+133. [[faedah_110]] - Tidak akan benar ibadah jika meninggalkan upaya menolak kebatilan.
+134. [[faedah_111]] - Jalan keluar dari lembah at-tih adalah dengan melahirkan generasi baru yang memahami manhaj Islam yang shahih dan bergerak hingga Allah memberikan kemenangan.
