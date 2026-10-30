@@ -13,54 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/MOC Thufan.md",
+                "file": "Literature/faedah_112.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MOC Thufan"
-            }
-          },
-          {
-            "id": "27f9156124486169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/faedah_82.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "faedah_82"
-            }
-          },
-          {
-            "id": "a7f8e6a4a5d6dddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/faedah_78_1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "faedah_78_1"
-            }
-          },
-          {
-            "id": "5548fd6c72b56071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/faedah_71.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "faedah_71"
+              "title": "faedah_112"
             }
           }
         ]
@@ -230,9 +188,9 @@
   },
   "active": "b15e5fd3d9927322",
   "lastOpenFiles": [
+    "MOC/MOC Thufan.md",
     "Literature/faedah_82.md",
     "Literature/faedah_81.md",
-    "MOC/MOC Thufan.md",
     "Literature/faedah_80.md",
     "Literature/faedah_79_2.md",
     "Literature/faedah_79_1.md",
