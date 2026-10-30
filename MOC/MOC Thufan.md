@@ -134,4 +134,4 @@
 132. [[faedah_109]] - Keberlimpahan rezeki dan kenikmatan hidup namun kehilangan orientasi pemikiran dan keyakinan adalah kehidupan luntang-tuntung dalam lembah at-tih.
 133. [[faedah_110]] - Tidak akan benar ibadah jika meninggalkan upaya menolak kebatilan.
 134. [[faedah_111]] - Jalan keluar dari lembah at-tih adalah dengan melahirkan generasi baru yang memahami manhaj Islam yang shahih dan bergerak hingga Allah memberikan kemenangan.
-135. [[faedah_112]] - Islam adalah agama dan negara.
+135. [[faedah_112]] - Sejak pertama kali, Islam adalah negara bukan sekadar dakwah semata.
