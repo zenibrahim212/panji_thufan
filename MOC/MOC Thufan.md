@@ -135,3 +135,5 @@
 133. [[faedah_110]] - Tidak akan benar ibadah jika meninggalkan upaya menolak kebatilan.
 134. [[faedah_111]] - Jalan keluar dari lembah at-tih adalah dengan melahirkan generasi baru yang memahami manhaj Islam yang shahih dan bergerak hingga Allah memberikan kemenangan.
 135. [[faedah_112]] - Sejak pertama kali, Islam adalah negara bukan sekadar dakwah semata.
+136. [[faedah_113]] - Dai adalah seorang prajurit petempur, bukan sekadar seorang teoretisi (ahli teori), dan bukan pula hanya pengampu metode pengajaran penyucian jiwa (tazkiyah).
+
