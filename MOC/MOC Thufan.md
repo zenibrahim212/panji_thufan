@@ -105,35 +105,41 @@
 103. [[faedah_87]] - Sedekah memberi air minum adalah sedekah paling agung.
 104. [[faedah_88]] - Dai perlu melakukan tajdid tema dakwah pada masyarakat. Mereka harus berbicara secara serius dan terus terang bukan dengan rasa sungkan dan berbelit-belit tentang perkara-perkara yang agung dan meninggalkan perdebatan dalam masalah khilafiyah Karena tenggelam dalam persoalan-persoalan ini bukanlah bagian dari al-qaulu as-sadid.
 105. [[faedah_89]] - Dakwah yang menyelisihi kewajiban waktu dan fase perjuangan saat ini adalah kalimat al-haq yang dimaksudkan untuk membela kebatilan.
-106. [[faedah_90]] - Seorang dai tidak sepatutnya menjadi orang yang lugu atau lalai mudah terperdaya. Sebaliknya ia adalah orang yang selalu waspada yang memadukan antara kekuatan dan kasih sayang, antara kehormatan dan tawadhu agar orang-orang tidak menganggapnya remeh sehingga orang-orang bodoh menginjaknya.
-107. [[faedah_91]] - Fokus dai hanya pada sisi kelembutan dari perikehidupan Nabi shallallahu 'alaihi wassalam saja justru melalaikan sisi lainnya dan menguburkannya. Dan memberikan gambaran yang tidak utuh mengenai kepribadian Nabi shallallahu 'alaihi wassalam dan kepribadian mukmin yang diinginkan dan diridhai Allah 'azza wa jalla. Selain itu, sikap ini memancing kelakuan kaum munafik dan orang-orang bodoh untuk meremehkan kaum muslimin.
-108. [[faedah_92]] - Mengatur urusan manusia dan memantau urusan mereka merupakan salah satu pintu dari pintu-pintu jihad dan cabang dari cabang-cabang iman dan merupakan jalan para Nabi.
-109. [[faedah_92_1]] - Kerja-kerja sosial dan kemasyarakatan membutuhkan kelapangan dada serta sikap pertengahan antara marah dan ridha. Adapun kelapangan dada, dengannya kamu bisa menanggung beban kesukaran dan memimpin manusia. Sedangkan pertengahan dalam marah dan ridha, dengan tidak selalu bersikap tegas sepanjang waktu yang pada akhirnya menumbangkanmu, dan tidak pula bersikap lembek sepanjang waktu sehingga orang-orang bodoh menginjak-injakmu.
-110. [[faedah_93]] - Di antara bahaya kerja aktivitas sosial, kamu mengira memiliki keutamaan dihadapan manusia dengan sedekah dan bantuan pada orang lain.
-111. [[faedah_94]] - Mendirikan pasar, menghidupkannya dan menertibkannya sebagaimana yang Allah merupakan suatu kewajiban dari kewajiban-kewajiban kaum muslimin. Maka tidak sepatutnya berdagang di pasar kita kecuali orang-orang yang memahami fikihnya.
-112. [[faedah_94_1]] - Berniaga di pasar membutuhkan kezuhudan dan ketakwaan.
-113. [[faedah_95]] - Shalat malam berfungsi memperbaiki hati. 
-114. [[faedah_95_1]] - Shalat malam memperbaiki urusan duniawi dan akhirat.
-115. [[faedah_96]] - Jihad yang dibarengi dengan shalat malam, maka dengan keduanya seorang hamba akan mencapai kedudukan yang tinggi.
-116. [[faedah_97]] - Hati yang tidak terdidik dalam shalat malam tidak akan kuat menghadapi jihad yang panjang dan berat.
-117. [[faedah_98]] - Diantara keutamaan shalat malam adalah ittiba' Rasul, tazkiyatun nasf dan penguatan kaidah-kaidah mujahadah.
-118. [[faedah_98_1]] - Tahajud adalah amalan tarbiyah paling agung yang dengannnya seorang muslim mentarbiyah dirinya. Dan diharapkan bagi yang melaziminya tidak jatuh kedalam jurang-jurrang fitnah, disamping adanya penempaan jiwa untuk mencapai kedudukan tinggi, penjernihan akal dan tarbiyah dalam ketersembunyian.
-119. [[faedah_99]] - Barang siapa yang memohon pertolongan dengan qaulan tsaqilan (perkataan yang berat), niscaya Allah akan meringankan segala beban berat yang dipikulnya.
-120. [[faedah_100]] - Tingkatan seratus derajat di janah yang disiapkan Allah bagi mujahidin sudah sangat pantas untuk membuat kita meninggalkan setiap kenyamanan dunia demi meraihnya. Sesungguhnya jihad itu berdiri di atas pemutusan perkara-perkara yang dicintai hawa nafsu dan kelekatan kita terus menerus kepada Allah subhanahu wa ta'ala.
-121. [[faedah_101]] - Segala sesuatu terasa ringan dan murah di jalan Allah.
-122. [[faedah_100_1]] - Sesungguhnya jihad itu berdiri di atas pemutusan perkara-perkara yang dicintai hawa nafsu dan kelekatan kita terus menerus kepada Allah subhanahu wa ta'ala.
-123. [[faedah_102]] - Model tarbiyah dalam Al-Quran adalah menanamkan sikap untuk tidak terburu-buru.
-124. [[faedah_103]] - Tujuan dari turunnya bala dan musibah adalah supaya hamba tadharu' (merendah) kepada Allah dan kembali pada-Nya.
-125. [[faedah_104]] - Kembali bermaksiat secara terang-terangan setelah datangnya musibah adalah tanda ketumpulan hati. 
-126. [[faedah_104_1]] - Bertaubat kepada Allah dengan taubat nasuha adalah semboyan tahapan perjuangan saat ini.
-127. [[faedah_105]] - Karamah dicabut tatkala kita mengubah dan mengganti prinsip perjuangan.
-128. [[faedah_105_1]] - Kemenangan hilang karena lemahnya pertahanan.
-129. [[faedah_106]] - Tasawuf tercela yang tersembunyi: Mengabaikan sunatullah dan mutu ibadah demi angan-angan pertolongan gaib.
-130. [[faedah_107]] - Tidak masuk akal berkompromi dengan musuh setelah melalui pengorbanan yang besar dengan biaya sangat mahal.
-131. [[faedah_108]] - Pemikiran dan keyakinan yang menyimpang adalah lembah at-tih.
-132. [[faedah_109]] - Keberlimpahan rezeki dan kenikmatan hidup namun kehilangan orientasi pemikiran dan keyakinan adalah kehidupan luntang-tuntung dalam lembah at-tih.
-133. [[faedah_110]] - Tidak akan benar ibadah jika meninggalkan upaya menolak kebatilan.
-134. [[faedah_111]] - Jalan keluar dari lembah at-tih adalah dengan melahirkan generasi baru yang memahami manhaj Islam yang shahih dan bergerak hingga Allah memberikan kemenangan.
-135. [[faedah_112]] - Sejak pertama kali, Islam adalah negara bukan sekadar dakwah semata.
-136. [[faedah_113]] - Dai adalah seorang prajurit petempur, bukan sekadar seorang teoretisi (ahli teori), dan bukan pula hanya pengampu metode pengajaran penyucian jiwa (tazkiyah).
+106. [[faedah_89_1]] - Bayangkan andai para pemuda mujahid itu belajar dengan si A dan si B dari kalangan ulama zaman yang aneh sekarang, belajar dengan ulama yang mencela mujahidin atas jihad mereka, niscaya hasilnya adalah kehinaan, kerendahan dan ketundukan pada thaghut. 
+107. [[faedah_90]] - Seorang dai tidak sepatutnya menjadi orang yang lugu atau lalai mudah terperdaya. Sebaliknya ia adalah orang yang selalu waspada yang memadukan antara kekuatan dan kasih sayang, antara kehormatan dan tawadhu agar orang-orang tidak menganggapnya remeh sehingga orang-orang bodoh menginjaknya.
+108. [[faedah_91]] - Fokus dai hanya pada sisi kelembutan dari perikehidupan Nabi shallallahu 'alaihi wassalam saja justru melalaikan sisi lainnya dan menguburkannya. Dan memberikan gambaran yang tidak utuh mengenai kepribadian Nabi shallallahu 'alaihi wassalam dan kepribadian mukmin yang diinginkan dan diridhai Allah 'azza wa jalla. Selain itu, sikap ini memancing kelakuan kaum munafik dan orang-orang bodoh untuk meremehkan kaum muslimin.
+109. [[faedah_92]] - Mengatur urusan manusia dan memantau urusan mereka merupakan salah satu pintu dari pintu-pintu jihad dan cabang dari cabang-cabang iman dan merupakan jalan para Nabi.
+110. [[faedah_92_1]] - Kerja-kerja sosial dan kemasyarakatan membutuhkan kelapangan dada serta sikap pertengahan antara marah dan ridha. Adapun kelapangan dada, dengannya kamu bisa menanggung beban kesukaran dan memimpin manusia. Sedangkan pertengahan dalam marah dan ridha, dengan tidak selalu bersikap tegas sepanjang waktu yang pada akhirnya menumbangkanmu, dan tidak pula bersikap lembek sepanjang waktu sehingga orang-orang bodoh menginjak-injakmu.
+111. [[faedah_93]] - Di antara bahaya kerja aktivitas sosial, kamu mengira memiliki keutamaan dihadapan manusia dengan sedekah dan bantuan pada orang lain.
+112. [[faedah_94]] - Mendirikan pasar, menghidupkannya dan menertibkannya sebagaimana yang Allah merupakan suatu kewajiban dari kewajiban-kewajiban kaum muslimin. Maka tidak sepatutnya berdagang di pasar kita kecuali orang-orang yang memahami fikihnya.
+113. [[faedah_94_1]] - Berniaga di pasar membutuhkan kezuhudan dan ketakwaan.
+114. [[faedah_95]] - Shalat malam berfungsi memperbaiki hati. 
+115. [[faedah_95_1]] - Shalat malam memperbaiki urusan duniawi dan akhirat.
+116. [[faedah_96]] - Jihad yang dibarengi dengan shalat malam, maka dengan keduanya seorang hamba akan mencapai kedudukan yang tinggi.
+117. [[faedah_97]] - Hati yang tidak terdidik dalam shalat malam tidak akan kuat menghadapi jihad yang panjang dan berat.
+118. [[faedah_98]] - Diantara keutamaan shalat malam adalah ittiba' Rasul, tazkiyatun nasf dan penguatan kaidah-kaidah mujahadah.
+119. [[faedah_98_1]] - Tahajud adalah amalan tarbiyah paling agung yang dengannnya seorang muslim mentarbiyah dirinya. Dan diharapkan bagi yang melaziminya tidak jatuh kedalam jurang-jurrang fitnah, disamping adanya penempaan jiwa untuk mencapai kedudukan tinggi, penjernihan akal dan tarbiyah dalam ketersembunyian.
+120. [[faedah_99]] - Barang siapa yang memohon pertolongan dengan qaulan tsaqilan (perkataan yang berat), niscaya Allah akan meringankan segala beban berat yang dipikulnya.
+121. [[faedah_100]] - Tingkatan seratus derajat di janah yang disiapkan Allah bagi mujahidin sudah sangat pantas untuk membuat kita meninggalkan setiap kenyamanan dunia demi meraihnya. Sesungguhnya jihad itu berdiri di atas pemutusan perkara-perkara yang dicintai hawa nafsu dan kelekatan kita terus menerus kepada Allah subhanahu wa ta'ala.
+122. [[faedah_101]] - Segala sesuatu terasa ringan dan murah di jalan Allah.
+123. [[faedah_100_1]] - Sesungguhnya jihad itu berdiri di atas pemutusan perkara-perkara yang dicintai hawa nafsu dan kelekatan kita terus menerus kepada Allah subhanahu wa ta'ala.
+124. [[faedah_102]] - Model tarbiyah dalam Al-Quran adalah menanamkan sikap untuk tidak terburu-buru.
+125. [[faedah_103]] - Tujuan dari turunnya bala dan musibah adalah supaya hamba tadharu' (merendah) kepada Allah dan kembali pada-Nya.
+126. [[faedah_104]] - Kembali bermaksiat secara terang-terangan setelah datangnya musibah adalah tanda ketumpulan hati. 
+127. [[faedah_104_1]] - Bertaubat kepada Allah dengan taubat nasuha adalah semboyan tahapan perjuangan saat ini.
+128. [[faedah_105]] - Karamah dicabut tatkala kita mengubah dan mengganti prinsip perjuangan.
+129. [[faedah_105_1]] - Kemenangan hilang karena lemahnya pertahanan.
+130. [[faedah_106]] - Tasawuf tercela yang tersembunyi: Mengabaikan sunatullah dan mutu ibadah demi angan-angan pertolongan gaib.
+131. [[faedah_107]] - Tidak masuk akal berkompromi dengan musuh setelah melalui pengorbanan yang besar dengan biaya sangat mahal.
+132. [[faedah_108]] - Pemikiran dan keyakinan yang menyimpang adalah lembah at-tih.
+133. [[faedah_109]] - Keberlimpahan rezeki dan kenikmatan hidup namun kehilangan orientasi pemikiran dan keyakinan adalah kehidupan luntang-tuntung dalam lembah at-tih.
+134. [[faedah_110]] - Tidak akan benar ibadah jika meninggalkan upaya menolak kebatilan.
+135. [[faedah_111]] - Jalan keluar dari lembah at-tih adalah dengan melahirkan generasi baru yang memahami manhaj Islam yang shahih dan bergerak hingga Allah memberikan kemenangan.
+136. [[faedah_112]] - Sejak pertama kali, Islam adalah negara bukan sekadar dakwah semata.
+137. [[faedah_113]] - Dai adalah seorang prajurit petempur, bukan sekadar seorang teoretisi (ahli teori), dan bukan pula hanya pengampu metode pengajaran penyucian jiwa (tazkiyah).
+138. [[faedah_114]] - Perkara yang menguras energi seorang dai di antaranya; mendirikan yayasan, menulis artikel, menyusun buku, mengadakan forum seminar, ceramah, njelimet dalam masalah furu', bantah membantah tetapi lalai dari perkara besar umat.
+139. [[faedah_115]] - Kisah Nabi dan raja dalam Al-Quran membuktikan bahwa Islam adalah agama dan negara.
+140. [[faedah_116]] - Tidak menerangkan Islam sebagai agama dan negara termasuk bentuk memotong dakwah.
+141. [[faedah_117]] - Dakwah yang benar mampu menggerakkan umat.
+142. [[faedah_118]] - Kehormatan adalah bagi mujahidin dan ulama serta mentor mujahidin.
 
