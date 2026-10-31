@@ -13,7 +13,7 @@
 11. [[faedah_06 2]] - Siapa mengenal hakikat kehidupan tidak akan merubah prinsip ketika melewati ujian fisabilillah.
 12. [[faedah_07]] - Perdamaian dan keamanan menyeret jiwa condong pada dunia.
 13. [[faedah_07_1]] - Mengutamakan keselamatan, stabilitas keamanan dan ekonomi merupakan jalan menuju neraka.
-14. [[faedah_07_2]] - Sesungguhnya maslahat keuntungan jihad sebagian besar seputar akhirat, bahkan mungkin saja kita tidak memetik sedikitpun buahnya di dunia
+14. [[faedah_07_2]] - Sesungguhnya maslahat keuntungan jihad sebagian besar seputar akhirat, bahkan mungkin saja kita tidak memetik sedikitpun buahnya di dunia.
 15. [[faedah_08]] - Kalimat Dan Pertolongan Allah Tidak Ada Habisnya
 16. [[faedah_09]] - Nilai Dunia Hanya Setara Seteguk Air Atau Rumput
 17. [[faedah_10]] - Di antara pelajaran dalam madrasah jihad: bersandar pada Allah, menyerahkan segala urusan pada-Nya, mendidik tidak takut pada musuh, memperlihatkan ketakutan dan kepengecutan ahlu batil berhadapan dengan ahlu haq berserta pengikutnya, madrasah kesabaran, madrasah itsar (pengorbanan dan mengutamakan orang lain), madrasah idad, madrasah ujian fisabilillah, madrasah keteguhan mujahid, madrasah untuk memutus semua keterkaitan duniawi dan para makhluk.
