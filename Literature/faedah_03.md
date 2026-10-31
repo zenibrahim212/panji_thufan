@@ -12,4 +12,4 @@ Aku belajar dari Sayiduna Khabab pelajaran-pelajaran sunah ilahiyah. Aku juga me
 
 Sayiduna Khabab membangun rumah fiqih dari batu bata ujian fisabilillah. (hal. 43) 
 
-#ujian_fisabilillah
+#ujian_fisabilillah #fiqih_sunan

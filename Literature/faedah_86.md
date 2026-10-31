@@ -4,4 +4,4 @@
 
 Rasulullah shallallahu 'alaihi wassalam bersabda: "Siapa yang membeli sumur ini maka baginya surga." Maka Ustman radhiyallahu 'anhu membeli janah ditukar dengan sebuah sumur. Pembelian tertinggi yang pernah dibayarkan dalam sejarah Islam demi sebuah sumur! (hal. 119)
 
-#panji_thufan #infak
+#keutamaan_manusia #infak

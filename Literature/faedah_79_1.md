@@ -4,4 +4,4 @@
 
 Sesungguhnya Allah apabila berhendak menjalankan sunatullah-Nya makan Allah pasti akan menjalankannya untuk menetapkan al-haq dan membatilkan al-batil, meskipun peristiwa itu terjadinya melalui para nabi atau wali-wali. Dan mereka tidak memiliki pilihan lain dalam menetapi perintah Allah. (hal. 106)  
 
-#panji_thufan 
+#fiqih_sunan

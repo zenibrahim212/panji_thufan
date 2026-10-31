@@ -4,4 +4,4 @@
 
 Kita telah hidup selama sepuluh hari tanpa stok makanan dan air kecuali perbekalan survival. Begitulah tiga puluh hari perang ini berlalu, sungguh aku telah lupa merasakan sakitnya tetapi aku tidak melupakan pelajaran-pelajarannya. Kami telah menyelesaikan tiga kali khataman Quran. Sungguh jihad merupakan madrasah agung dalam bersandar pada Allah, madrasah menyerahkan segala urusan kepada-Nya, madrasah yang mendidik tidak takut pada musuh, madrasah yang memperlihatkan ketakutan dan kepengecutan ahlu batil berhadapan dengan ahlu haq berserta pengikutnya, madrasah kesabaran, madrasah itsar (pengorbanan dan mengutamakan orang lain), madrasah idad, madrasah ujian fisabilillah, dan madrasah keteguhan mujahid. Sungguh Allah telah memutuskan dariku segala keterkaitan duniawi dan para makhluk. (hal. 37 dengan ringkasan)
 
-#panji_thufan #madrasah_jihad 
+#madrasah_jihad #tarbiyah_al-quran

@@ -6,4 +6,4 @@
 
 Terkadang kita mencela kalangan sufi atas sikap individualistik mereka dan pengabaian mereka terhadap persoalan-persoalan umat. Padahal di dalam hati justru bersemayam sufisme yang tercela; yaitu kita tidak menetapi sunnatullah dan melalaikan penyempurnaan kualitas ibadah hanya demi bersandar pada perkara ghaib yang diangan-angankan! Allah ta'ala berfiman: "Atau apakah ada pada mereka ilmu tentang yang gaib lalu mereka menuliskannya?" (Al-Qalam: 47) (hal. 140)
 
-#panji_thufan
+#fiqih_sunan

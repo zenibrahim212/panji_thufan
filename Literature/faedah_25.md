@@ -4,4 +4,4 @@
 
 Alhamdulillah, secara syari kita tidak dibebani menghancurkan musuh. Kita hanya dibebani untuk idad (persiapan) dan melawan mereka sesuai kemampuan. Allah tidak menetapkan dosa jika kita gagal menghancurkan total musuh. (hal. 54)
 
-#panji_thufan 
+#i'dad

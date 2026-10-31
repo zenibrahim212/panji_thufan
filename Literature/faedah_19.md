@@ -4,4 +4,4 @@
 
 Manusia yang paling pantas dimuliakan adalah hamba yang menghancurkan dirinya agar agamanya tetap hidup. (hal. 50)
 
-#panji_thufan #keutamaan_manusia 
+#keutamaan_manusia 

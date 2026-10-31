@@ -4,4 +4,4 @@
 
 Sesungguhnya tingkatan seratus derajat di janah yang disiapkan Allah bagi mujahidin sudah sangat pantas untuk membuat kita meninggalkan setiap kenyamanan dunia demi meraihnya. (hal. 136)
 
-#panji_thufan
+#keutamaan_manusia

@@ -4,4 +4,4 @@
 
 Umat ini tidak mengetahui apa pun tentang orang-orang agung, cukuplah bagi Allah mengenal mereka. Keadaan mereka sama halnya keluarga Yasin yang Allah kekalkan namanya dalam Al-Quran dan diceritakan kepada kita syahadahnya fisabilillah. (hal 50)
 
-#panji_thufan #syahadah #keutamaan_manusia 
+#syahadah #keutamaan_manusia 

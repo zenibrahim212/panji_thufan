@@ -1,18 +1,18 @@
 # Map of Content Faedah Tahta Royati Thufan
 
-1. [[faedah_01]] - Menghargai Keutamaan Manusia Berdasar Senioritas, Ragam Ujian Fisabillilah dan Keteguhan Di Atas Al-Haq
-2. [[faedah_01_1]] - Menghargai Keutamaan Manusia Tanda Kedalaman Fiqih Seseorang Seseorang
-3. [[faedah_02]] - Tabiat Pertolongan Allah dan Kebatilan Hanya Bisa Dipahami Dalam Ujian Penderitaan Fisabilillah
-4. [[faedah_02_1]] - Terburu-buru Meminta Turunnya Pertolongan Allah Sebelum Sempurna Persiapan Bentuk Penyimpangan Hukum Sunatullah
+1. [[faedah_01]] - Menghargai keutamaan manusia berdasar senioritas, ragam ujian fisabillilah dan keteguhan di atas al-haq.
+2. [[faedah_01_1]] - Menghargai keutamaan manusia tanda kedalaman fiqih seseorang.
+3. [[faedah_02]] - Tabiat pertolongan Allah dan kebatilan hanya bisa dipahami dalam ujian penderitaan fisabilillah.
+4. [[faedah_02_1]] - Terburu-buru (isti'jal) meminta turunnya pertolongan Allah sebelum sempurna persiapan bentuk penyimpangan hukum sunatullah.
 5. [[faedah_03]] - Membangun pemahaman fiqih melalui ujian fisabilillah.
 6. [[faedah_04]] - Bentuk ibadah agung menanggung ujian penderitaan fisabilillah.
 7. [[faedah_04_1]] - Hubungan dengan Allah tidak mungkin matang hingga seseorang menceburkan diri dalam penderitaan fisabilillah.
 8. [[faedah_05]] - Siapa mengutamakan keselamatan dalam segala hal tidak akan memperoleh apapun.
-9. [[faedah_06]] - Jihad adalah Kehidupan Hakiki, Tidak Mengurangi Umur Justru Menambah Usia
-10. [[faedah_06 1]] - Siapa Mencari Kematian Allah Akan Anugerahkan Kehidupan
-11. [[faedah_06 2]] - Siapa Mengenal Hakikat Kehidupan Tidak Akan Merubah Prinsip Ketika Melewati Ujian Fisabilillah
-12. [[faedah_07]] - Perdamaian dan Keamanan Menyeret Jiwa Tunduk Pada Dunia
-13. [[faedah_07_1]] - Mengutamakan Keselamatan, Stabilitas Keamanan dan Ekonomi Jalan Menuju Neraka
+9. [[faedah_06]] - Jihad adalah kehidupan hakiki, tidak mengurangi umur justru menambah usia.
+10. [[faedah_06 1]] - Siapa mencari kematian di jalan Allah akan diberikan kehidupan.
+11. [[faedah_06 2]] - Siapa mengenal hakikat kehidupan tidak akan merubah prinsip ketika melewati ujian fisabilillah.
+12. [[faedah_07]] - Perdamaian dan keamanan menyeret jiwa condong pada dunia.
+13. [[faedah_07_1]] - Mengutamakan keselamatan, stabilitas keamanan dan ekonomi merupakan jalan menuju neraka.
 14. [[faedah_07_2]] - Sesungguhnya maslahat keuntungan jihad sebagian besar seputar akhirat, bahkan mungkin saja kita tidak memetik sedikitpun buahnya di dunia
 15. [[faedah_08]] - Kalimat Dan Pertolongan Allah Tidak Ada Habisnya
 16. [[faedah_09]] - Nilai Dunia Hanya Setara Seteguk Air Atau Rumput

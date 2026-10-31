@@ -4,4 +4,4 @@
 
 Di antara bahaya kerja aktivitas sosial, kamu mengira memiliki keutamaan dihadapan manusia dengan sedekah dan bantuan pada orang lain. Semoga Allah merahmati Yahya bin Mu'in tatkala berkata: "Aku tidak pernah melihat orang seperti Imam Ahmad. Aku menemaninya selama 50 tahun, dan tidak pernah membanggakan sedikitpun pada kami atas kebaikan yang ada pada beliau." (hal. 126)
 
-#panji_thufan
+#keutamaan_manusia

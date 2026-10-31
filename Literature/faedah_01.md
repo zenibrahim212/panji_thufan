@@ -1,5 +1,5 @@
 
-# [[Menghargai Keutamaan Manusia]] Berdasar Senioritas, Ragam Ujian Fisabillilah dan Keteguhan Di Atas Al-Haq
+# Menghargai keutamaan manusia berdasar senioritas, ragam ujian fisabillilah dan keteguhan di atas al-haq.
 
 يقول سيدنا عمر بن الخطاب رضي الله عنه مخاطبا سيدنا خباب بن الأرت رضي الله عنه: «ادن، فما أحد أحق بهذا المجلس منك». 
 
@@ -11,6 +11,6 @@ Telah rajih bahwasanya sayiduna Khabab radhiyallahu 'anhu disakiti dan siksaan l
 
 Siksaan yang beliau terima dengan digulung dalam tikar lalu dipanggang di atas perapian sampai api padam karena tetesan lemak daging di punggungnya. Tatkala beliau menceritakan kepedihan siksaan yang dirasakan kepada Rasulullah shallallahu 'alaihi wassalam, beliau bersabda: "Allahuma tolonglah Khabab." (hal. 42, dengan ringkasan)
 
-#panji_thufan #keutamaan_manusia 
+#keutamaan_manusia 
 
 

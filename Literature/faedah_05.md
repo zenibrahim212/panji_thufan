@@ -9,4 +9,4 @@ Andai kami tetap tinggal dalam terowongan bawah tanah dan tidak menyelesaikan pe
 
 Siapa saja yang mendengar kata terowongan bawah tanah dan parit pertahanan mengira kami tinggal dalam hotel. Demi Allah, sungguh duduk di dalamnya tidak tertahankan. Tetapi itulah satu-satunya cara untuk melaksanakan operasi ambush setelah wilayah dibombardir siang malam selama sepekan tanpa henti. Pemboman dengan berbagai jenis rudal. Setiap menit serangan rudal dan kehancuran.  (hal. 45)
 
-#madrasah_jihad
+#madrasah_jihad #ujian_fisabilillah
