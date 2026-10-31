@@ -4,4 +4,4 @@
 
 Terdapat perbedaan yang sangat besar antara mukmin yang terbakar dengan api bala dan musibah dengan mukmin yang hidup bergelimangan dalam kelapangan dan kenyamanan. Golongan mukmin yang hidup dalam kenyamanan mempelajari iman secara teoritis kemudian keluar menempuh jalan jihad. Namun, begitu menghadapi ujian pertama mereka berkata: "Tidak ada kesanggupan bagi kami pada hari ini untuk melawan Jalut dan bala tentaranya." Sedangkan golongan akhirat berkata: "Berapa banyak golongan yang sedikit dapat mengalahkan golongan yang banyak dengan izin Allah. Dan Allah beserta orang-orang yang sabar." (hal. 100)
 
-#panji_thufan 
+#madrasah_jihad

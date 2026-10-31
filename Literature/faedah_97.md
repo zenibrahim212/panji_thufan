@@ -4,4 +4,4 @@
 
 Sesungguhnya hati yang tidak terdidik di mihrab-mihrab shalat malam tidak akan kuat menghadapi jihad yang panjang dan berat. Maka ambillah bagian kalian dari malam hari, wahai para ksatria kebenaran, karena jarang sekali orang munafik mendirikan shalat malam. (hal. 129)
 
-#panji_thufan #shalat_malam
+#shalat_malam

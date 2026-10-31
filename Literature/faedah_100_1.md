@@ -4,4 +4,4 @@
 
 Sesungguhnya jihad itu berdiri di atas pemutusan perkara-perkara yang dicintai hawa nafsu dan kelekatan kita terus menerus kepada Allah subhanahu wa ta'ala. (hal. 136)
 
-#panji_thufan
+#madrasah_jihad

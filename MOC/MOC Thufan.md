@@ -4,10 +4,10 @@
 2. [[faedah_01_1]] - Menghargai Keutamaan Manusia Tanda Kedalaman Fiqih Seseorang Seseorang
 3. [[faedah_02]] - Tabiat Pertolongan Allah dan Kebatilan Hanya Bisa Dipahami Dalam Ujian Penderitaan Fisabilillah
 4. [[faedah_02_1]] - Terburu-buru Meminta Turunnya Pertolongan Allah Sebelum Sempurna Persiapan Bentuk Penyimpangan Hukum Sunatullah
-5. [[faedah_03]] - Membangun Pemahaman Fiqih Melalui Ujian Fisabilillah
-6. [[faedah_04]] - Bentuk Ibadah Agung Menanggung Ujian Penderitaan Fisabilillah 
-7. [[faedah_04_1]] - Hubungan Dengan Allah Tidak Mungkin Matang Hingga Seseorang Menceburkan Diri Dalam Penderitaan Fisabilillah
-8. [[faedah_05]] - Siapa Mengutamakan Keselamatan Dalam Segala Hal Tidak Akan Memperoleh Apapun
+5. [[faedah_03]] - Membangun pemahaman fiqih melalui ujian fisabilillah.
+6. [[faedah_04]] - Bentuk ibadah agung menanggung ujian penderitaan fisabilillah.
+7. [[faedah_04_1]] - Hubungan dengan Allah tidak mungkin matang hingga seseorang menceburkan diri dalam penderitaan fisabilillah.
+8. [[faedah_05]] - Siapa mengutamakan keselamatan dalam segala hal tidak akan memperoleh apapun.
 9. [[faedah_06]] - Jihad adalah Kehidupan Hakiki, Tidak Mengurangi Umur Justru Menambah Usia
 10. [[faedah_06 1]] - Siapa Mencari Kematian Allah Akan Anugerahkan Kehidupan
 11. [[faedah_06 2]] - Siapa Mengenal Hakikat Kehidupan Tidak Akan Merubah Prinsip Ketika Melewati Ujian Fisabilillah
@@ -89,7 +89,7 @@
 87. [[faedah_74]] - Al-Quran mensifati orang-orang kafir dengan segelintir pasukan yang tidak memiliki kemampuan.
 88. [[faedah_75]] - Medan pertempuran penuh dengan bala dan musibah.
 89. [[faedah_76]] - Dua golongan mukmin yang berjihad; mukmin yang hidup dalam kenyamanan dan yang membiasakan diri hidup dalam penderitaan.
-90. [[faedah_77]] - Tidak akan mampu bersabar atas dahsyatnya bala dan lamanya bala kecuali ahli akhirat yang meyakini bahwa mereka melangkah menuju Allah dengan hati dan kesemangatan mereka bukan melangkah dengan kaki dan jasad mereka.
+90. [[faedah_77]] - Tidak akan mampu bersabar atas dahsyat dan lamanya bala kecuali ahli akhirat yang meyakini bahwa mereka melangkah menuju Allah dengan hati dan kesemangatan mereka bukan melangkah dengan kaki dan jasad mereka.
 91. [[faedah_78]] - Allah akan memenuhi janji-Nya pada saat makar orang-orang kafir telah mencapai puncaknya hingga meluluhkan gunung.
 92. [[faedah_78_1]] - Surat Ibrahim 46-47 lebih baik dari dunia dan seisinya di medan pertempuran.
 93. [[faedah_79]] - Allah 'azza wa jalla ketika menciptakan pertentangan antara al-haq dan al-batil memiliki tujuan untuk menghancurkan kebatilan dan menetapkan kemenangan al-haq. Kadang Allah menjalankan ketetapan ini melalui wali-walinya atau orang-orang bodoh. Maka fokus perhatian bukanlah pada orang yang tertimpa bala, melainkan pada terus berlangsungnya sunatullah pergulatan dan lenyapnya kebatilan.

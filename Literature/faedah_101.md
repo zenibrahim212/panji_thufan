@@ -13,4 +13,4 @@ Hari-hari berlalu tanpa makan. Pekan dan bulan berlalu tanpa nyala api di rumah-
 
 Kita diberikan pelajaran mengenai pengabdian dan pengorbanan dengan jiwa, keluarga,harta, tempat tinggal, keamanan dan seluruh kenikmatan duniawi. Semuanya menjadi murah tak bernilai di jalan agama dan jihad fi sabilillah. (hal. 264)
 
-#panji_thufan
+#madrasah_jihad #ujian_fisabilillah
