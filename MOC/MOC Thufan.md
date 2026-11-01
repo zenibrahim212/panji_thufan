@@ -142,4 +142,8 @@
 140. [[faedah_116]] - Tidak menerangkan Islam sebagai agama dan negara termasuk bentuk memotong dakwah.
 141. [[faedah_117]] - Dakwah yang benar mampu menggerakkan umat.
 142. [[faedah_118]] - Kehormatan adalah bagi mujahidin dan ulama serta mentor mujahidin.
-
+143. [[faedah_119]] - Semua pengalaman kehidupan para Nabi adalah pengalaman ulama yang memimpin umat manusia. Sepanjang sejarah Islam tidak ditemukan model ulama yang membatasi dirinya berputar pada kitab-kitab dan catatan pinggirnya tanpa interaksi pada masyarakat dan menegakkan urusan politik negara. Barang siapa yang tidak demikian maka bahaya yang ia timbulkan lebih besar dari pada manfaatnya.
+144. [[faedah_119_1]] - Ulama qaidun adalah yang tidak berkomentar apapun terhadap peristiwa yang terjadi dengan memberikan kritik atau mengarahkan umat yang tidak punya nyali berkonfrontasi terhadap kemungkaran yang terjadi di dekatnya sekalipun.
+145. [[faedah_119_2]] - Tolak ukur kejujuran sikap terhadap jihad adalah kesiapan menanggung risiko, bukan sekadar kebanggaan lisan di majelis. 
+146. [[faedah_120]] - Setiap jalan memiliki rute pintas, dan rute paling pintas munuju janah adalah jihad. 
+147. [[faedah_120_1]] - Siapa yang banyak melakukan dosa hendaknya berjihad.
