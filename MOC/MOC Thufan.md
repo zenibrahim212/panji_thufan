@@ -143,7 +143,11 @@
 141. [[faedah_117]] - Dakwah yang benar mampu menggerakkan umat.
 142. [[faedah_118]] - Kehormatan adalah bagi mujahidin dan ulama serta mentor mujahidin.
 143. [[faedah_119]] - Semua pengalaman kehidupan para Nabi adalah pengalaman ulama yang memimpin umat manusia. Sepanjang sejarah Islam tidak ditemukan model ulama yang membatasi dirinya berputar pada kitab-kitab dan catatan pinggirnya tanpa interaksi pada masyarakat dan menegakkan urusan politik negara. Barang siapa yang tidak demikian maka bahaya yang ia timbulkan lebih besar dari pada manfaatnya.
-144. [[faedah_119_1]] - Ulama qaidun adalah yang tidak berkomentar apapun terhadap peristiwa yang terjadi dengan memberikan kritik atau mengarahkan umat yang tidak punya nyali berkonfrontasi terhadap kemungkaran yang terjadi di dekatnya sekalipun.
+144. [[faedah_119_1]] - Ulama qaidun adalah yang tidak berkomentar apapun terhadap peristiwa yang terjadi dengan menyampaikan kritik atau mengarahkan umat yang tidak punya nyali berkonfrontasi terhadap kemungkaran yang terjadi di dekatnya sekalipun.
 145. [[faedah_119_2]] - Tolak ukur kejujuran sikap terhadap jihad adalah kesiapan menanggung risiko, bukan sekadar kebanggaan lisan di majelis. 
 146. [[faedah_120]] - Setiap jalan memiliki rute pintas, dan rute paling pintas munuju janah adalah jihad. 
 147. [[faedah_120_1]] - Siapa yang banyak melakukan dosa hendaknya berjihad.
+148. [[faedah_121]] - Sekalipun mujahidin adalah sebaik-baik penduduk bumi secara keseluruhan, pada akhirnya mereka tetaplah manusia biasa. Mereka berjihad saat berjihad dengan jiwa manusia, hati manusia, akal manusia yang tidak terlepas darinya. Iman mereka bertambah dengan berjihad dan berkurang dengan gejolak jiwa. 
+149. [[faedah_121_1]] - Kedudukan mujahid tidak bisa disamakan dengan orang lain walaupun dia melakukan dosa besar, kezhaliman atau perbuatan bidah karena kemuliaan khusus yang Allah anugerahkan atasnya berupa jihad di jalan-Nya.
+150. [[faedah_122]] - Khilafah akan tegak hanya dengan kehancuran negara-negara model modern.
+151. [[faedah_123]] - Berbagai krisis umat ini solusinya telah tercantum dalam sirah nabawiyah.
