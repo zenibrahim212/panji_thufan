@@ -4,6 +4,6 @@
 
 Ketahuilah wahai akhi, sesungguhnya al-haq memiliki dua kelompok pengikut:
 1. Kelompok yang setia memenuhi perjanjian pada al-haq, cirinya dia merasa sakit tatkala al-haq tersakiti.
-2. Kelompok yang hanya mementingkan dirinya sendiri, cirinya fokus mereka hanyalah agar asal usul mereka diterima dan pandangan-pandangan mereka didengar. Mereka hanya berputar disekeliling diri mereka dan kepentingan pribadi mereka. (hal 51)
+2. Kelompok yang hanya mementingkan dirinya sendiri. Cirinya fokus mereka hanyalah agar asal usul mereka diterima dan pandangan-pandangan mereka didengar. Mereka hanya berputar disekeliling diri mereka dan kepentingan pribadi mereka. (hal. 51)
 
 #panji_thufan 
