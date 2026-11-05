@@ -133,7 +133,7 @@
 131. [[faedah_107]] - Tidak masuk akal berkompromi dengan musuh setelah melalui pengorbanan yang besar dengan biaya sangat mahal.
 132. [[faedah_108]] - Pemikiran dan keyakinan yang menyimpang adalah lembah at-tih.
 133. [[faedah_109]] - Keberlimpahan rezeki dan kenikmatan hidup namun kehilangan orientasi pemikiran dan keyakinan adalah kehidupan luntang-tuntung dalam lembah at-tih.
-134. [[faedah_110]] - Tidak akan benar ibadah jika meninggalkan upaya menolak kebatilan.
+134. [[faedah_110]] - Ibadah tidak akan benar jika meninggalkan upaya menolak kebatilan.
 135. [[faedah_111]] - Jalan keluar dari lembah at-tih adalah dengan melahirkan generasi baru yang memahami manhaj Islam yang shahih dan bergerak hingga Allah memberikan kemenangan.
 136. [[faedah_112]] - Sejak pertama kali, Islam adalah negara bukan sekadar dakwah semata.
 137. [[faedah_113]] - Dai adalah seorang prajurit petempur, bukan sekadar seorang teoretisi (ahli teori), dan bukan pula hanya pengampu metode pengajaran penyucian jiwa (tazkiyah).
