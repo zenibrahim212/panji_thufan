@@ -151,3 +151,5 @@
 149. [[faedah_121_1]] - Kedudukan mujahid tidak bisa disamakan dengan orang lain walaupun dia melakukan dosa besar, kezhaliman atau perbuatan bidah karena kemuliaan khusus yang Allah anugerahkan atasnya berupa jihad di jalan-Nya.
 150. [[faedah_122]] - Khilafah akan tegak hanya dengan kehancuran negara-negara model modern.
 151. [[faedah_123]] - Berbagai krisis umat ini solusinya telah tercantum dalam sirah nabawiyah.
+152. [[faedah_124]] - Hamba dibebani dengan doa, namun tidak dibebani dengan hasil pengabulannya. 
+153. [[faedah_125]] - Hubungan kita dengan Allah Al-Hakim tidak dibangun berdasarkan keinginan-keinginan kita! Karena Allah lebih menyayangi kita daripada diri kita sendiri. 
