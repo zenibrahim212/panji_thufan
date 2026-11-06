@@ -6,7 +6,7 @@
 
 Dalam perenunganku, aku menemukan ada bentuk jihad lain. Aku menemukan mujahid yang melumuri dirinya dengan wewangian darah, namun bukan darahnya akan tetapi darah orang-orang terluka dan korban cedera. Dokter mujahid yang menazarkan jiwanya untuk Allah. Mereka adalah orang-orang yang gemar berkorban. Sungguh gambaran mereka terpatri kuat dalam ingatanku, dan aku sangat mengagumi mereka...
 
-Para dokter telah memberikan pengorbanan yang lebih banyak dari seharusnya. AKu tidak senang melebih-lebihkan cerita, tetapi singkatnya: Sesungguhnya jihad di sini dengan warna yang berbeda. (hal. 72)
+Para dokter telah memberikan pengorbanan yang lebih banyak dari seharusnya. Aku tidak senang melebih-lebihkan cerita, tetapi singkatnya: Sesungguhnya jihad di sini dengan warna yang berbeda. (hal. 72)
 
 إن الذي يجب أن نقرره أن الممرض وموظف البلدية وحارس الشرطة في حالة الحرب كلهم مجاهدون، ويجب عليهم أن يعملوا لأجل الله، لا لأجل الراتب. (ص ٧٣)
 
