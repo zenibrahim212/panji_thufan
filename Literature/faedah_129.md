@@ -1,0 +1,5 @@
+# Tujuan program pendidikan Al-Quran adalah menunjukkan generasi muda kepada jalan keselamatan akhirat, pencapaian mati syahid fisabilillah atau meraih kemenangan besar.
+
+تقديم تجربة عملية لأبناء أمة الإسلام، فغالب البرامج المطروحة تدل الشاب المسلم على طريق السلامة الدنيوية، لكننا نريد أن ندله على طريق السلامة الأخروية، ونوصله إلى آخر الطريق بأن ينال الشهادة في سبيل الله، أو يشهد نصرا مؤزرا، يكون هو سببا فيه. (ص ١٦١)
+
+Menyajikan percobaan praktis bagi generasi umat Islam, karena sebagian besar program yang ditawarkan hanya menunjukkan kepada pemuda Islam jalan keselamatan duniawi. Tetapi kami ingin menunjukkan kepada jalan keselamatan akhirat, serta mengantarkannya pada jalan selanjutnya yaitu pencapaian mati syahid fisabilillah atau kemenangan besar yang program ini turut menjadi penyebab di dalamnya. (hal. 161)

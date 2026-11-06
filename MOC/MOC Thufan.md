@@ -156,3 +156,6 @@
 154. [[faedah_126]] - Sebagaimana kita selalu mengucek pakaian sampai bersih, demikian pula mengulang-ngulang doa.
 155. [[faedah_127]] - Perang akan melahirkan generasi yang terbiasa dengan kerasnya kehidupan, jauh dari hidup manja dan kemewahan.
 156. [[faedah_128]] - Sesungguhnya ahlul bala hari ini berada dalam kesulitan yang teramat berat. Namun sebenarnya mereka adalah orang-orang yang berbahagia, mendapat keamanan dan dicemburui atas kenikmatan yang mereka terima esok. 
+157. [[faedah_129]] - Tujuan program pendidikan Al-Quran adalah menunjukkan generasi muda kepada jalan keselamatan akhirat, pencapaian mati syahid fisabilillah atau meraih kemenangan besar.
+158. [[faedah_129_1]] - Menumbuhkan perasaan keterkaitan emosional bagi umat ini membutuhkan terlebih dahulu pembuktian pengorbanan.
+159. [[faedah_130]] - Termasuk cabang iman paling agung: Menghafal ilmu dalam dada.
