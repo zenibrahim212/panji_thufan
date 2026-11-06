@@ -1,4 +1,4 @@
-# Hubungan kita dengan Allah Al-Hakim tidak dibangun berdasarkan keinginan-keinginan kita! Karena Allah lebih menyayangi kita daripada diri kita sendiri.
+# Hubungan kita dengan Allah Al-Hakim tidak dibangun berdasarkan keinginan-keinginan kita. Karena Allah lebih menyayangi kita daripada diri kita sendiri.
 
 علاقتنا مع الله الحكيم ليست مبنية على الأمنيات! ولأن الله أرحم بك من نفسك.
 
@@ -9,3 +9,7 @@ Hubungan kita dengan Allah Al-Hakim tidak dibangun berdasarkan keinginan-keingin
 (ص ١٥٦)
 
 Sebagian kaum muslimin menginginkan Allah hanya sebagai pengabul keinginan-keinginan. Mereka menuntut Allah untuk selalu mengabulkan permintaan. Sikap ini tidak sejalan dengan konsep keimanan dan pemahaman ibadah. (hal. 156)
+
+فاتقوا الله واعبدوه كما يحب لا كما ترغبون! (ص ٢٤٢)
+
+Maka bertakwalah kepada Allah dan beribadahlah kepada-Nya sebagaimana yang Dia cintai bukan sebagaimana yang kamu inginkan! (hal. 242)

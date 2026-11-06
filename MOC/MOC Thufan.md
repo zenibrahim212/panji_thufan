@@ -152,4 +152,7 @@
 150. [[faedah_122]] - Khilafah akan tegak hanya dengan kehancuran negara-negara model modern.
 151. [[faedah_123]] - Berbagai krisis umat ini solusinya telah tercantum dalam sirah nabawiyah.
 152. [[faedah_124]] - Hamba dibebani dengan doa, namun tidak dibebani dengan hasil pengabulannya. 
-153. [[faedah_125]] - Hubungan kita dengan Allah Al-Hakim tidak dibangun berdasarkan keinginan-keinginan kita! Karena Allah lebih menyayangi kita daripada diri kita sendiri. 
+153. [[faedah_125]] - Hubungan kita dengan Allah Al-Hakim tidak dibangun berdasarkan keinginan-keinginan kita. Karena Allah lebih menyayangi kita daripada diri kita sendiri. 
+154. [[faedah_126]] - Sebagaimana kita selalu mengucek pakaian sampai bersih, demikian pula mengulang-ngulang doa.
+155. [[faedah_127]] - Perang akan melahirkan generasi yang terbiasa dengan kerasnya kehidupan, jauh dari hidup manja dan kemewahan.
+156. [[faedah_128]] - Sesungguhnya ahlul bala hari ini berada dalam kesulitan yang teramat berat. Namun sebenarnya mereka adalah orang-orang yang berbahagia, mendapat keamanan dan dicemburui atas kenikmatan yang mereka terima esok. 
