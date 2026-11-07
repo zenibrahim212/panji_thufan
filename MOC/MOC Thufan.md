@@ -159,3 +159,8 @@
 157. [[faedah_129]] - Tujuan program pendidikan Al-Quran adalah menunjukkan generasi muda kepada jalan keselamatan akhirat, pencapaian mati syahid fisabilillah atau meraih kemenangan besar.
 158. [[faedah_129_1]] - Menumbuhkan perasaan keterkaitan emosional bagi umat ini membutuhkan terlebih dahulu pembuktian pengorbanan.
 159. [[faedah_130]] - Termasuk cabang iman paling agung: Menghafal ilmu dalam dada.
+160. [[faedah_131]] - Metode belajar adalah dengan cara menghafal materi dengan berbagai macam teknik.
+161. [[faedah_132]] - Metode hafalan orang-orang bodoh. Yaitu orang yang tidak memiliki hafalan apapun dan juga tidak ingin orang lain menghafal.
+162. [[faedah_133]] - Musibah adalah orang yang memiliki pendapat: Aku hanya hafal tidak perlu menghafal.
+163. [[faedah_134]] - Sardul Quran (meruntut Al-Quran) adalah engkau menelusuri setiap kisah dalam Al-Quran, kisah demi kisah dan peristiwa demi peristiwa.
+164. [[faedah_135]] - Kisah Nabi Musa 'alaihissalam adalah kisah yang paling kompleks dari segi dinamika, peristiwa anak manusia yang saling berkelindan dan peristiwa yang saling kontras dan bertumbukan.

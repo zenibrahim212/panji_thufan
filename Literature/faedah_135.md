@@ -1,0 +1,10 @@
+# Kisah Nabi Musa 'alaihissalam adalah kisah yang paling kompleks dari segi dinamika, peristiwa anak manusia yang saling berkelindan dan peristiwa yang saling kontras dan bertumbukan.
+
+وقصة نبي الله موسى عليه السلام، وهي الأكثر ثراءً من حيث الفعاليات والأحداث الإنسانية المتشابكة والمواقف المغايرة والتقلبات، فأنت تقرأ لسيدنا موسى حياتين وتاريخين، حيث كان كلُّ نبي يعيش مع قومه حتى يهلكهم الله وينجو بمن ينجو من أهل الاتباع والإسلام، لكنَّ موسى عليه السلام عاش حياتين؛ عاش مع فرعون حتى أهلكه الله، ثم استمر في دعوة بني إسرائيل حتى أضلهم الله في الصحراء، ومات موسى عليه السلام وبني إسرائيل في التيه، وأنت تقرأ قصة نبي الله موسى مع فرعون وبني إسرائيل، تتجسد أمامك مشكلات العصر من شعوب مقهورة وحاكم مستبدٍّ طاغية، وداعيةٍ مصلح، ومؤمنون ومنافقون، وملأ متكبر وأغلبية صامتة، وسنن وابتلاءات، ومعجزات وكرامات، وإهلاك ونجاة، وشكران وكفران. (ص ١٦٦)
+
+Kisah Nabi Musa 'alaihissalam adalah kisah yang paling kompleks dari segi dinamika, peristiwa anak manusia yang saling berkelindan dan peristiwa yang saling kontras dan bertumbukan. Dalam kisah Sayiduna Musa, kamu membaca dua sejarah kehidupan. Padahal biasanya semua kisah Nabi menceritakan kehidupannya bersama kaumnyan hingga Allah menghancurkan mereka dan menyelamatkan yang berhak diselamatkan dari pengikut dan yang telah masuk Islam. Tetapi Musa memiliki dua episode kehidupan:
+
+1. Hidup bersama Firaun sampai Allah menghancurkannya.
+2. Dilanjutkan hidup mendakwahi Bani Israil sampai Allah menyesatkan mereka ke padang pasir. Musa wafat sedang Bani Israil terjebak di lembah at-tih.
+
+Ketika engkau membaca kisah Musa bersama Firaun dan Bani Israil, maka akan terbentang dihadapanmu problematika kontemporer dari mental rakyat yang tertindas, penguasa tiran yang melampau batas, dai yang ingin mereformasi, kaum mukminin dan munafikin, elit yang congkak, mayoritas masyarakat yang memilih diam mencari selamat, sunatullah dan bala, mukjizat dan karamah, kehancuran dan keselamatan serta rasa syukur dan kekufuran. (hal 166)

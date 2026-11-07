@@ -1,0 +1,5 @@
+# Metode hafalan orang-orang bodoh. Yaitu orang yang tidak memiliki hafalan apapun dan juga tidak ingin orang lain menghafal.
+
+وللحفظ نوع ثالث أضيفه من عندي، وهو حفظ الأغبياء، وهو من لا يحفظ شيئاً ولا يريد لغيره أن يحفظ، ويزعم أنه مشتغل بالفهم والتدبر، ويزداد صفاقة إذا بدأ يستدل بالقرآن على أن الحفظ غير مطلوب شرعاً والمطلوب هو التدبر فقط... فيظن أنه فهامة عصره، والحقيقة أنه مصيبة أهله!!، ولا حول ولا قوة إلا بالله. (ص ١٦٤)
+
+Dan untuk hafalan, ada metode ketiga yang aku tambahkan yaitu metode hafalan orang-orang bodoh. Yaitu orang yang tidak memiliki hafalan apapun dan juga tidak ingin orang lain menghafal. Dia menyangka bahwa cukup dengan menyibukkan diri melalui pemahaman dan tadabur. Kebodohannya semakin tampak saat dia beragumen tidak ada tuntutan menghafal Al-Quran karena tuntutannya adalah tadabur saja. Ia mengira menjadi orang yang paling cerdas di zamannya padahal dia menjadi musibah bagi umat.Dan tiada daya serta tiada kekuatan melainkan dengan pertolongan Allah. (Hal. 164)
