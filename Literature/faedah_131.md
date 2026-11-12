@@ -14,3 +14,5 @@ Hafalan dilihat dari sisi materi hafalan terbagi menjadi dua:
 
 1. Menghafal lafazh dan struktur kalimat; yaitu hafalan melalui pengulangan.
 2. Menghafal makna; yaitu hafalan orang-orang cerdas atau hafalan pemahaman yang umumnya dominan dikalangan ahli fikih. (hal. 163-164)
+
+#metode_belajar

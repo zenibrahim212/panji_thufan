@@ -8,3 +8,5 @@ Kisah Nabi Musa 'alaihissalam adalah kisah yang paling kompleks dari segi dinami
 2. Dilanjutkan hidup mendakwahi Bani Israil sampai Allah menyesatkan mereka ke padang pasir. Musa wafat sedang Bani Israil terjebak di lembah at-tih.
 
 Ketika engkau membaca kisah Musa bersama Firaun dan Bani Israil, maka akan terbentang dihadapanmu problematika kontemporer dari mental rakyat yang tertindas, penguasa tiran yang melampau batas, dai yang ingin mereformasi, kaum mukminin dan munafikin, elit yang congkak, mayoritas masyarakat yang memilih diam mencari selamat, sunatullah dan bala, mukjizat dan karamah, kehancuran dan keselamatan serta rasa syukur dan kekufuran. (hal 166)
+
+#sardul_quran
