@@ -1,0 +1,5 @@
+# Penyimpangan apapun dari jalurnya akan mengeluarkan sesuatu tersebut dari tatanan keindahan menuju kekacauan yang buruk.
+
+اعلم أن مفارقة أي شيء لمساره يخرجه من نسق الجمال إلى عبثية القبح، فالشمس لم تزل جميلةً في مدارها الذي كتبه الله تبارك وتعالى لها، والقمر لم يزل منيراً يرسل سكينته بالتزامه حدَّه الذي كتبه الله تبارك وتعالى له، وكذلك كلُّ شيءٍ في هذا العالم، لا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ، (ص ١٧٦)
+
+Ketahuilah, bahwa penyimpangan apapun dari jalurnya akan mengeluarkan sesuatu tersebut dari tatanan keindahan menuju kekacauan yang buruk. Matahari akan senantiasa indah selama berada di garis edar yang telah Allah tabaraka wa ta'ala tetapkan padanya. Bulan senantiasa bercahaya yang memancarkan ketenangan selama berada dalam garis edar yang telah Allah tabaraka wa ta'ala tetapkan atasnya. Begitu pula segala sesuatu di semesta ini. Allah ta'ala berfirman: "Tidaklah mungkin bagi matahari mengejar bulan dan malam pun tidak dapat mendahului siang. Masing-masing beredar pada garis edarnya.' (Yasin: 40). (Hal. 176) 

@@ -1,0 +1,5 @@
+# Keindahan teragung bagi hamba adalah melazimi peribadatan.
+
+وأعظم جمال للعبد أن يلتزم معنى عبوديته، فإنَّ ذلك مقتضى العقل والحكمة، لاسيَّما مَن عَلِم فقره وضعفه، وفهمه المحدود، وتفكيره المكدود، وليخضع للذي يقول للشيء كن فيكون!، وفي كل ذلك للشيطان قذارته التي لا تنتهي، لذا فالله عهد إلينا ألا نعبد الشيطان!!، وأن نخلص العبادة له ونلزْم صراطه المستقيم.(ص ١٧٦)
+
+Keindahan teragung bagi hamba adalah melazimi peribadatan. Karena peribadatan adalah tuntutan akal dan hikmah, terutama bagi hamba yang mengenal kefakiran dan kelemahannya, mengenal pemahahaman dan pemikirannya yang terbatas. Maha hendaklah tunduk pada Dia yang berkata pada segala sesutu "kun fayakun." Di tengah semua itu setan selalu menebar kotorannya yang tiada habis. Sebab itu Allah telah memerintahkan kita untuk tidak beribadah pada setan! Dan memerintahkan kita memurnikan peribadatan pada-Nya dan melazimi jalan-Nya yang lurus. (hal. 176)

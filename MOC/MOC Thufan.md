@@ -171,3 +171,7 @@
 169. [[faedah_139_1]] - Bisa jadi kita memiliki kekuatan tetapi nihil nilainya tanpa Allah.
 170. [[faedah_140]] - Ketika di zaman kita seorang dai hanya memperhatikan dirinya sendiri dan mencari kenyamanan pribadi dengan mengesampingkan dakwahnya. Ketika ia berjuang mati-matian untuk memuaskan keegoisannya. Ketika jamaah-jamaah disibukkan dengan perkara furu' meninggalkan perkara-perkara besar. Ketika kita sibuk mengikuti pendapat-pendapat seseorang dan meninggalkan prinsip. Ketika kita sibuk dengan masalah-masalah khilafiyah dan meninggalkan prioritas tema dakwah seperti mewujudkan peribadatan, kewajiban menolong Al-Aqsha, tawanan dan orang-orang lemah serta tuntutan perlawanan pada fase ini... Maka bisa jadi Allah akan menghukum jamaah-jamaah atau para dai itu dan tidak menghukum masyarakat awam.
 171. [[faedah_141_1]] - Setiap kali engkau sibuk dengan pendapat-pendapat tokoh dan meninggalkan prinsip, setiap kali engkau sibuk dengan perkara furu' dan meninggalkan ushul dan kewajiban waktu, maka ketahuilah engkau telah menjauh dari perkara yang benar.
+172. [[faedah_141_2]] - Kondisi thaghut di setiap zaman, mereka menyangka memiliki kemampuan padahal hakihatnya mereka lemah.
+173. [[faedah_142]] - Penyimpangan apapun dari jalurnya akan mengeluarkan sesuatu tersebut dari tatanan keindahan menuju kekacauan yang buruk.
+174. [[faedah_143]] - Keindahan teragung bagi hamba adalah melazimi peribadatan.
+175. [[faedah_144]] - Manusia bagian dari alam yang tak terpisahkan dan bahwa seluruh alam bertasbih dan beribadah. 
