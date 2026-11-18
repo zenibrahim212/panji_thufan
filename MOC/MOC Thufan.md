@@ -175,3 +175,8 @@
 173. [[faedah_142]] - Penyimpangan apapun dari jalurnya akan mengeluarkan sesuatu tersebut dari tatanan keindahan menuju kekacauan yang buruk.
 174. [[faedah_143]] - Keindahan teragung bagi hamba adalah melazimi peribadatan.
 175. [[faedah_144]] - Manusia bagian dari alam yang tak terpisahkan dan bahwa seluruh alam bertasbih dan beribadah. 
+176. [[faedah_145]] - Surat Al-Furqan membedakan antara manhaj Islami dengan semua manhaj lainnya yang sesat.
+177. [[faedah_146]] - Sesungguhnya akal yang memahami fikih kehidupan dan menggerakkannya sesuai dengan keinginan Allah adalah akal yang memahami fikih akhirat.
+178. [[faedah_147]] - Tidak mungkin seseorang yang dungu dan malas akan mampu membela keimanan.
+179. [[faedah_148]] - Ahlul Quran mereka adalah kesatria pertempuran.
+180. [[faedah_149]] - Adab seorang komandan adalah mendatangi majelis dan orang berilmu.
