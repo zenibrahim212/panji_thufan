@@ -1,4 +1,4 @@
-# Adab seorang komandan adalah mendatangi majelis dan orang berilmu.
+# Adab seorang komandan mendatangi majelis ilmu dan orang berilmu.
 
 وقد كان يحرص قائد الكتيبة أن يأتيَ إليَّ بنفسه، ولم يرضَ أن آتيه، فرفع الله قدره وأعلى شأنه، ووفقه لما فيه الخير والصلاح.
 (ص ١٨٢)

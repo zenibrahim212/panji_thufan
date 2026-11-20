@@ -1,0 +1,9 @@
+# Jihad adalah proyek keluarga.
+
+يطبع المرء على التعلق بزوجته وأولاده وأفراد العائلة، لكنَّ مشروع الجهاد ليس مشروع دنيا وترف، بل إن عائلته تشاركه أجر جهاده، فزوجة المجاهد تشاركه أجر جهاده، لأنَّها كانت تعينه في الإعداد، وتصبر على فراقه ورباطه، وإنَّ العون من الله يزداد إنْ كان مشروع الجهاد مشروع أسرة، وليس مشروع زوج لا علاقة لزوجته به.(ص ١٨٨)
+
+Secara fitrah seseorang terikat dengan istri, anak dan anggota keluarganya. Sedangkan jihad bukanlah proyek duniawi dan mencari kemewahan. Jika suami berjihad, maka keluarganya turut mendapat saham pahala jihadnya. Istri seorang mujahid mendapat saham pahala jihad suaminya karena istrinya telah membantunya dalam melakukan i'dad, bersabar atas perpisahan dan tugas ribat suaminya. Dan sesungguhnya pertolongan dari Allah semakin bertambah jika proyek jihad menjadi proyek keluarga bukan menjadi proyek suaminya semata tanpa ada hubungan dengan istrinya. (hal. 188) 
+
+تقول لي: «نحن بخير المهم أنت احفظ حالك»، نزحوا ذات يوم وباتوا على الرصيف، وهم الآن في خيمة صغيرة، ومع ذلك كانت تقول لي: نحن بخير!!، كانت تجبر خاطري بكلماتها هذه، وتقوي ضعفي، رضي الله عنها وسلمها وصانها في الدنيا والآخرة، ورزقني الله الشهادة وإياها -اللهم آمين-. (ص ١٨٩)
+
+Istriku berkata padaku, "Kami baik-baik saja yang terpenting kamu jaga dirimu." Suatu hari terpaksa mereka mengungsi dan tidur di pinggir jalan, sekarang mereka sudah mendapatkan tenda kecil. Namun demikian, istriku masih berkata padaku, "Kami dalam keadaan baik." Ia senantiasa menghiburku dengan kata-katanya itu dan menguatkan diriku pada saat lemah. Semoga Allah meridhainya dan menyelamatkannya serta menjaganya di dunia dan akhirat. Semoga Allah memberiku dan dia rizki syahadah, Allahuma amin... (hal. 189)

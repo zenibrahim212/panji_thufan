@@ -179,4 +179,13 @@
 177. [[faedah_146]] - Sesungguhnya akal yang memahami fikih kehidupan dan menggerakkannya sesuai dengan keinginan Allah adalah akal yang memahami fikih akhirat.
 178. [[faedah_147]] - Tidak mungkin seseorang yang dungu dan malas akan mampu membela keimanan.
 179. [[faedah_148]] - Ahlul Quran mereka adalah kesatria pertempuran.
-180. [[faedah_149]] - Adab seorang komandan adalah mendatangi majelis dan orang berilmu.
+180. [[faedah_149]] - Adab seorang komandan mendatangi majelis ilmu dan orang berilmu.
+181. [[faedah_150]] - Sebagian dzikir matsurah (yang bersumber dari riwayat) yang apabila engkau membiasakannya secara rutin pada pagi dan petangmu, maka kehidupan tidak akan baik tanpanya setelah itu! Dikarenakan keberkahan, pengaruh dan keterikatan hatimu pada Dzat yang diingat subhanahu serta tumbuhnya rasa kefakiran dan ketergantunganmu pada-Nya.
+182. [[faedah_151]] - Keteguhan diperoleh dengan banyak berdizkir.
+183. [[faedah_152]] - Kaitan dzikir dengan keterhubungan kepada Allah.
+184. [[faedah_153]] - Jihad adalah proyek keluarga.
+185. [[faedah_154]] - Jihad adalah antara api kerinduan dan api ketakutan.
+186. [[faedah_155]] - Doa menitipkan keluarga pada Allah.
+187. [[faedah_156]] - Tercela suami yang menelantarkan keluarganya dengan alasan kesibukan.
+188. [[faedah_157]] - Hendaknya mujahid berwasiat menitipkan keluarganya kepada orang yang amanah.
+189. [[faedah_158]] - Mengurus keluarga mujahid membutuhkan takwa dan takut pada Allah.
