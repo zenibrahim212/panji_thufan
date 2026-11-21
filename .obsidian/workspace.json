@@ -41,16 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/MOC Thufan.md",
+                "file": "Literature/faedah_162.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MOC Thufan"
+              "title": "faedah_162"
+            }
+          },
+          {
+            "id": "634a77dcd93d8daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/faedah_164.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "faedah_164"
+            }
+          },
+          {
+            "id": "61085b4f4f32b90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/faedah_165.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "faedah_165"
+            }
+          },
+          {
+            "id": "0e7204d07c3e5c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/faedah_161.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "faedah_161"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,15 +256,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "c3327f9a23d523d1",
+  "active": "61085b4f4f32b90b",
   "lastOpenFiles": [
+    "MOC/MOC Thufan.md",
+    "Literature/faedah_165.md",
+    "Literature/faedah_164.md",
+    "Literature/faedah_163.md",
+    "Literature/faedah_161.md",
+    "Literature/faedah_162.md",
     "Literature/faedah_160.md",
     "Literature/faedah_158.md",
     "Literature/faedah_159.md",
-    "MOC/MOC Thufan.md",
     "Literature/faedah_118.md",
     "Literature/faedah_117.md",
     "Literature/faedah_89_1.md",
@@ -240,11 +291,6 @@
     "Literature/faedah_81.md",
     "Literature/faedah_80.md",
     "Literature/faedah_79_2.md",
-    "Literature/faedah_79_1.md",
-    "Literature/faedah_71.md",
-    "Literature/faedah_78_1.md",
-    "Literature/faedah_79.md",
-    "Literature/faedah_78.md",
     "MOC"
   ]
 }

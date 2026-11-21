@@ -191,3 +191,7 @@
 189. [[faedah_158]] - Mengurus keluarga mujahid membutuhkan takwa dan takut pada Allah.
 190. [[faedah_159]] - Mengurus keluarga mujahid merupakan jihad.
 191. [[faedah_160]] - Ayat takwa disandingkan dengan ayat wanita karena membutuhkan ihsan, amanah dan ikhlas.
+192. [[faedah_161]] - Hukum tayamum dengan keberadaan air di area tidak aman.
+193. [[faedah_162]] - Hukum tayamum karena sebab keberadaan air dibutuhkan untuk perkara-perkara yang bersifat darurat. 
+194. [[faedah_163]] - Botol spray dapat digunakan untuk berwudhu dan mandi besar.
+195. [[faedah_164]] - Para fuqaha telah menetapkan bahwa air jika bercampur dengan tanah atau lumut, maka air tersebut tetap berstatus air mutlak.
