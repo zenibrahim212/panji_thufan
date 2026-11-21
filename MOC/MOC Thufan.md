@@ -189,3 +189,5 @@
 187. [[faedah_156]] - Tercela suami yang menelantarkan keluarganya dengan alasan kesibukan.
 188. [[faedah_157]] - Hendaknya mujahid berwasiat menitipkan keluarganya kepada orang yang amanah.
 189. [[faedah_158]] - Mengurus keluarga mujahid membutuhkan takwa dan takut pada Allah.
+190. [[faedah_159]] - Mengurus keluarga mujahid merupakan jihad.
+191. [[faedah_160]] - Ayat takwa disandingkan dengan ayat wanita karena membutuhkan ihsan, amanah dan ikhlas.
