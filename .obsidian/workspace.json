@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3269ef34b08b1d68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/faedah_167_1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "faedah_167_1"
-            }
-          },
-          {
             "id": "8c917db6c89930a1",
             "type": "leaf",
             "state": {
@@ -36,45 +22,17 @@
             }
           },
           {
-            "id": "00e9544874f3ccb6",
+            "id": "3d3624ea0ea2e822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_167.md",
+                "file": "Literature/faedah_168.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "faedah_167"
-            }
-          },
-          {
-            "id": "e213e7a6b5e29c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/faedah_167_2.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "faedah_167_2"
-            }
-          },
-          {
-            "id": "a27b71819c7a9552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/faedah_167_3.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "faedah_167_3"
+              "title": "faedah_168"
             }
           }
         ],
@@ -249,10 +207,11 @@
       "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "8c917db6c89930a1",
+  "active": "3d3624ea0ea2e822",
   "lastOpenFiles": [
-    "Literature/faedah_167_3.md",
     "MOC/MOC Thufan.md",
+    "Literature/faedah_168.md",
+    "Literature/faedah_167_3.md",
     "Literature/faedah_167_2.md",
     "Literature/faedah_167_1.md",
     "Literature/faedah_167.md",
@@ -276,7 +235,6 @@
     "Untitled.md",
     "Literature/faedah_113.md",
     "Literature/faedah_104.md",
-    "Literature/faedah_110.md",
     "MOC"
   ]
 }

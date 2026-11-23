@@ -201,3 +201,4 @@
 199. [[faedah_167_1]] - Keutamaan shalat berjamaah tetap diperoleh bagi siapa yang mendapati sebagian dari shalat imam.
 200. [[faedah_167_2]] - Fiqih tata cara shalat berjamaah di medan pertempuran dan ribath. 
 201. [[faedah_167_3]] - Seandainya seorang mujahid shalat sendirian dikarenakan ngerinya pertempuran dan penjagaan, maka kita berharap kepada Allah agar ia tetap mendapatkan pahala shalat jamaah.
+202. [[faedah_168]] - Wajib bersuci bagi siapa saja yang hendak menyentuh mushaf.
