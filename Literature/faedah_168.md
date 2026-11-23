@@ -6,3 +6,5 @@
 Para fuqaha madzhab Syafi'i menetapkan bahwa wajib hukumnya berwudhu bagi siapa saja yang hendak menyentuh mushaf. Hal ini merupakan bentuk pengagungan pada Allah dan firman-Nya. Ketentuan ini berlaku dalam keadaan normal. Adapun dalam kondisi seperti kami ketika air tidak ditemukan dan kami bertayamum untuk shalat karena ketiadaan air, maka demikian pula disyariatkan tayamum bagi siapa saja yang ingin menyentuh mushaf.
 
 Faedah penting: Berkata Asy-Syarbini: "Diperbolehkan membawa mushaf dalam kondisi darurat, seperti khawatir mushaf akan tenggelam, terbakar, terkena najis atau jatuh ke tangan orang kafir, sementara ia tidak dalam kondisi suci; bahkan wajib ia mengambilnya dalam kondisi demikian. (hal. 194-195)
+
+#fiqih_tayamum 

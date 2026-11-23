@@ -4,3 +4,4 @@
 
 Salatnya dua orang secara bersama-sama sudah terhitung sebagai salat berjamaah, yang dengannya keduanya memperoleh dua puluh lima derajat pahala. (hal. 194)
 
+#shalat_berjamaah
