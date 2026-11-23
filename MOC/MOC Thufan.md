@@ -196,4 +196,8 @@
 194. [[faedah_163]] - Botol spray dapat digunakan untuk berwudhu dan mandi besar.
 195. [[faedah_164]] - Para fuqaha telah menetapkan bahwa air jika bercampur dengan tanah atau lumut, maka air tersebut tetap berstatus air mutlak.
 196. [[faedah_165]] - Hukum Menjamak Shalat Dalam Perang.
-197. [[faedah_166]] - Menentukan arah kiblat dalam terowongan dengan cara ijtihad.
+197. [[faedah_166]] - Menentukan arah kiblat dalam terowongan dengan cara ijtihad dan shalat dada harus mengarah kiblat.
+198. [[faedah_167]] - Salatnya dua orang secara bersama-sama sudah terhitung sebagai salat berjamaah, yang dengannya keduanya memperoleh dua puluh lima derajat pahala.
+199. [[faedah_167_1]] - Keutamaan shalat berjamaah tetap diperoleh bagi siapa yang mendapati sebagian dari shalat imam.
+200. [[faedah_167_2]] - Fiqih tata cara shalat berjamaah di medan pertempuran dan ribath. 
+201. [[faedah_167_3]] - Seandainya seorang mujahid shalat sendirian dikarenakan ngerinya pertempuran dan penjagaan, maka kita berharap kepada Allah agar ia tetap mendapatkan pahala shalat jamaah.

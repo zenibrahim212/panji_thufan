@@ -1,4 +1,4 @@
-# Menentukan arah kiblat dalam terowongan dengan cara ijtihad.
+# Menentukan arah kiblat dalam terowongan dengan cara ijtihad dan shalat dada harus mengarah kiblat.
 
 قال الإمام النووي رحمه الله: «استقبال القبلة شرط لصلاة القادر إلا في شدة الخوف ونفل السفر»، وقد تمثلت هذه المسألة عندنا في الصلاة داخل الأنفاق، فلم نكن نعرف بالضبط اتجاه القبلة، فكنا نجتهد ونتحرى ثم نصلي، وفي صلاة أخرى قد يطرأ اجتهاد جديد فنصلي إلى جهة أخرى، ومعلوم أن الاجتهاد لا ينقض بالاجتهاد. (ص ١٩٣)
 
