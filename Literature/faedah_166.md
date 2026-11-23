@@ -1,0 +1,9 @@
+# Menentukan arah kiblat dalam terowongan dengan cara ijtihad.
+
+قال الإمام النووي رحمه الله: «استقبال القبلة شرط لصلاة القادر إلا في شدة الخوف ونفل السفر»، وقد تمثلت هذه المسألة عندنا في الصلاة داخل الأنفاق، فلم نكن نعرف بالضبط اتجاه القبلة، فكنا نجتهد ونتحرى ثم نصلي، وفي صلاة أخرى قد يطرأ اجتهاد جديد فنصلي إلى جهة أخرى، ومعلوم أن الاجتهاد لا ينقض بالاجتهاد. (ص ١٩٣)
+
+Imam An-Nawawi rahimahullah berkata: "Menghadap kiblat merupakan syarat sah shalat bagi yang mampu, kecuali dalam kondisi ketakutan sangat atau shalat sunah dalam safat." Persoalan ini menimpa pada kami ketika shalat di dalam terowongan. Kami tidak mampu menentukan arah kiblat sehingga melakukan ijtihad dan berusaha mencari arah yang tepat kemudian shalat. Kemudian pada shalat berikutnya, bisa saja muncul ijtihad baru sehingga kami shalat menghadap arah yang berbeda. Dan telah maklum bahwa suatu ijtihad tidaklah membatalkan ijtihad sebelumnya. (hal. 193)
+
+قال شيخ الإسلام زكريا الأنصاري: «التوجه للقبلة بالصدر لا بالوجه»، وأثر هذه الفائدة أن المصلي قد يلتفت يمينا وشمالا بسبب ضيق النفق والخندق، فهذا لا يؤثر على صحة صلاته ما دامت طائفة من الصدر متجهة نحو القبلة، وكذلك لو التفت بوجهه يمينا وشمالا لأجل الحراسة والاستطلاع فلا بأس، وكذلك لو مشى خطوات للأمام أو الوراء ليرد على مكالمة الهاتف الآمن، فلا تبطل صلاته ما دام صدره إلى جهة القبلة. (ص ١٩٣)
+
+Syeikhul Islam Zakaria Al-Anshari berkata: "Cara menghadap kiblat dengan mengarahkan dada bukan wajah." Faedah dari fatwa ini adalah, di dalam terowongan bisa jadi kepala harus digerakkan ke kanan atau ke kiri karena sempitnya tempat. Maka gerakan ini tidak membatalkan shalat selama dada mengarahkan pada kiblat. Demikian pula tidak mengapa, jika kepala harus menoleh ke kanan dan ke kiri ketika berjaga-jaga dalam keadaan shalat. Demikian pula jika ia berjalan beberapa langkah ke depan atau ke belakang untuk mengoperasikan radio komando, shalatnya tidak batal selama dadanya mengarah ke kiblat. (hal. 193)
