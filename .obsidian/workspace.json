@@ -182,14 +182,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "702ae91b6c105cf6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +213,8 @@
       "smart-lookup:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false
+      "smart-connections:Toggle Footer Connections": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3d3624ea0ea2e822",
