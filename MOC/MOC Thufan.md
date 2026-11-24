@@ -202,3 +202,5 @@
 200. [[faedah_167_2]] - Fiqih tata cara shalat berjamaah di medan pertempuran dan ribath. 
 201. [[faedah_167_3]] - Seandainya seorang mujahid shalat sendirian dikarenakan ngerinya pertempuran dan penjagaan, maka kita berharap kepada Allah agar ia tetap mendapatkan pahala shalat jamaah.
 202. [[faedah_168]] - Wajib bersuci bagi siapa saja yang hendak menyentuh mushaf.
+203. [[faedah_169]] - Disyaratkan untuk keabsahan sujud harus ada niat untuk bersujud. 
+204. [[faedah_170]] - Sujud itu di atas tujuh anggota tubuh: Kedua kaki, kedua telapak tangan, kedua lutut, dahi serta hidung. Bahwa bagian bawahnya harus terangkat lebih tinggi dari bagian atasnya.
