@@ -1,0 +1,5 @@
+# Apabila tidak menemukan air dan batu, maka beristinja sebisanya.
+
+أن المجاهد قد يفقد الورق والماء ولا يجد شيئا يستنجي به، وقد حصل هذا كثيرا في هذه المعركة، فالواجب على المسلم وقتها والحالة هذه أن يتنظف قدر المستطاع، ولا شيء عليه بعد ذلك، وقد أفتى بهذا من الشافعية الإمام المزني وهو أيضا مذهب السادة الأحناف، واحتجوا بأنه نجاسة قليلة، والنجاسة القليلة عفو، ولأنه محل تعم به البلوى فيعفى عنه. (ص ١٩٨)
+
+Terkadang seorang mujahid tidak menemukan daun atau kertas dan air dan tidak menemukan apapun untuk beristinja. Kasus tersebut banyak terjadi di peperangan ini. Maka wajib bagi setiap muslim pada kondisi seperti ini untuk membersihkannya sesuai kemampuan, dan bekas yang tersisa tidak mengapa. Masalah ini difatwakan dalam Mazhab Syafi'i oleh Imam Al-Muzani dan juga difatwakan oleh para ulama mazhab Hanafi; mereka berhujah bahwa bekas yang ada dikatagorikan sebagai najis yang sedikit. Sedang hukum najis yang sedikit dimaafkan. Dan juga dikarenakan kondisinya tidak normal maka dimaafkan. (hal. 198)

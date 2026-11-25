@@ -206,3 +206,6 @@
 204. [[faedah_170]] - Sujud itu di atas tujuh anggota tubuh: Kedua kaki, kedua telapak tangan, kedua lutut, dahi serta hidung. Bahwa bagian bawahnya harus terangkat lebih tinggi dari bagian atasnya.
 205. [[faedah_171]] - Fiqih shalat dalam keadaan tertawan, terbelenggu dan ditelanjangi serta tidak mampu berwudhu atau tayamum.
 206. [[faedah_172]] - Bekas kotoran tinja setelah istinja dengan batu hukumnya dimaafkan.
+207. [[faedah_173]] - Diperbolehkan istinja dengan daun atau kertas.
+208. [[faedah_174]] - Tidak diharuskan menggunakan air bersama daun atau kertas dalam istinja.
+209. [[faedah_175]] - Apabila tidak menemukan air dan batu, maka beristinja sebisanya.
