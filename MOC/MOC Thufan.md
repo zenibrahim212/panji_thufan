@@ -204,3 +204,5 @@
 202. [[faedah_168]] - Wajib bersuci bagi siapa saja yang hendak menyentuh mushaf.
 203. [[faedah_169]] - Disyaratkan untuk keabsahan sujud harus ada niat untuk bersujud. 
 204. [[faedah_170]] - Sujud itu di atas tujuh anggota tubuh: Kedua kaki, kedua telapak tangan, kedua lutut, dahi serta hidung. Bahwa bagian bawahnya harus terangkat lebih tinggi dari bagian atasnya.
+205. [[faedah_171]] - Fiqih shalat dalam keadaan tertawan, terbelenggu dan ditelanjangi serta tidak mampu berwudhu atau tayamum.
+206. [[faedah_172]] - Bekas kotoran tinja setelah istinja dengan batu hukumnya dimaafkan.
