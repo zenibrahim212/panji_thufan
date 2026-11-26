@@ -209,3 +209,5 @@
 207. [[faedah_173]] - Diperbolehkan istinja dengan daun atau kertas.
 208. [[faedah_174]] - Tidak diharuskan menggunakan air bersama daun atau kertas dalam istinja.
 209. [[faedah_175]] - Apabila tidak menemukan air dan batu, maka beristinja sebisanya.
+210. [[faedah_176]] - Diperbolehkan shalat dengan pakaian yang terbakar atau sempit dalam keadaan darurat.
+211. [[faedah_177]] - Tidak mengapa wanita shalat dengan kehadiran laki-laki.

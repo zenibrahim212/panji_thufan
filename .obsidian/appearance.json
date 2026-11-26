@@ -1,5 +1,6 @@
 {
   "showRibbon": true,
-  "accentColor": "",
-  "cssTheme": "Things"
+  "accentColor": "#bb0227",
+  "cssTheme": "",
+  "nativeMenus": true
 }

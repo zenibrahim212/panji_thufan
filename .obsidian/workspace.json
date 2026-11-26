@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "1864fe5be6c8efd9",
+            "id": "226224ee52b4ca11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "MOC Thufan"
+            }
+          },
+          {
+            "id": "1864fe5be6c8efd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/faedah_177.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "faedah_177"
             }
           },
           {
@@ -69,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_175.md",
+                "file": "Literature/faedah_176.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "faedah_175"
+              "title": "faedah_176"
             }
           }
         ],
@@ -249,14 +263,16 @@
       "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "1864fe5be6c8efd9",
+  "active": "226224ee52b4ca11",
   "lastOpenFiles": [
-    "Literature/faedah_175.md",
-    "Literature/faedah_174.md",
+    "Literature/faedah_171.md",
+    "Literature/faedah_177.md",
     "MOC/MOC Thufan.md",
     "Literature/faedah_173.md",
+    "Literature/faedah_174.md",
+    "Literature/faedah_176.md",
+    "Literature/faedah_175.md",
     "Literature/faedah_172.md",
-    "Literature/faedah_171.md",
     "Literature/faedah_170.md",
     "Literature/faedah_169.md",
     "Literature/faedah_167_3.md",
@@ -275,8 +291,6 @@
     "Literature/faedah_159.md",
     "Literature/faedah_118.md",
     "Literature/faedah_117.md",
-    "Literature/faedah_89_1.md",
-    "Literature/faedah_114.md",
     "MOC"
   ]
 }
