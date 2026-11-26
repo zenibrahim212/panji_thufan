@@ -211,3 +211,6 @@
 209. [[faedah_175]] - Apabila tidak menemukan air dan batu, maka beristinja sebisanya.
 210. [[faedah_176]] - Diperbolehkan shalat dengan pakaian yang terbakar atau sempit dalam keadaan darurat.
 211. [[faedah_177]] - Tidak mengapa wanita shalat dengan kehadiran laki-laki.
+212. [[faedah_178]] - Siapa yang meninggalkan shalat jumat dikarenakan udzur takut dan shalat dhuhur dia tidak mendapat dosa.
+213. [[faedah_179]] - Siapa yang meninggalkan shalat jamaah atau shalat jumat karena alasan udzur yang diterima syariat tidak ada dosa dan tetap mendapatkan keutamaan pahala shalat berjamaah.
+214. [[faedah_180]] - Pengungsi yang selalu berpindah-pindah tidak terkena wajib shalat jumat.
