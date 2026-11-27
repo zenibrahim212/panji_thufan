@@ -4,4 +4,4 @@
 
 Perkara terpenting, Allah menerima amalan kita. (hal. 49)
 
-#panji_thufan 
+#niat 

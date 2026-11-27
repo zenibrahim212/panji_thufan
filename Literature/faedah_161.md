@@ -4,4 +4,4 @@
 
 Hukum tayamum dengan keberadaan air di area tidak aman. Rute menuju air penuh dengan bahaya seperti terdapatnya sniper musuh dan pesawat pengintai yang fokus mengintai kawasan tersebut. Terkadang, air melimpah di atas permukaan tanah, tetapi saat berada dalam terowongan hal itu membebani kami dengan kesulitan yang besar seperti memindahkan air dari atas ke bawah. Padanya terdapat kesulitan yang besar dan kadang kala membahayakan nyawa. Maka kami shalat di atas permukaan tanah dengan berwudhu dan shalat di bawah tanah dengan tayamum. Semua ini insya Allah disandarkan pada apa yang telah ditetapkan oleh imam kita Asy-Syafi'i rahimahullah: "Apabila dalam perbekalaan terdapat tangki air, lalu seseorang terhalang oleh musuh untuk mencapai perbekalannya, atau adanya binatang buas ataupun kebakaran yang menghalanginya untuk mencapai perbekalan airnya, maka hendaknya dia tayamum untuk shalat. Kasus seperti ini terhitung tidak mendapatkan air. (hal. 190)
 
-#fiqih_tayamum
+#fiqih_tayamum #fiqih_shalat 

@@ -4,4 +4,4 @@
 
 Shalat malam, ibadah ini berfungsi memperbaiki hati. Sungguh, ia telah diwajibkan kepada Nabi shallallahu 'alaihi wassalam dan para sahabat radhiyallahu 'anhum dua belas tahun sebelum diwajibkannya jihad. (hal. 129) 
 
-#panji_thufan #shalat_malam
+ #shalat_malam

@@ -4,4 +4,4 @@
 
 Keutamaan shalat berjamaah tetap diperoleh bagi siapa yang mendapati sebagian dari shalat imam. Faedah dari hal ini, bahwa satu titik pertahanan tempur biasanya terdiri dari tiga personal. Maka hendaknya dua orang mendirikan shalat sedangkan orang ketiga berjaga-jaga. Sebelum imam mengucapkan salam, orang ketiga segera masuk jamaah untuk shalat. Dengan cara ini ia bisa menyelesaikan tugas penjagaan dan mendapatkan keutamaan shalat berjamaah. Syeikhul Islam Zakaria Al-Anshari berkata: "Orang yang mendapatkan shalat jamaah walaupun tidak lama tetap meraih pahala keutamaan shalat berjamaah." Ar-Ramli berkata: "Yaitu selama imam belum mengucapkan salam yang pertama." Al-Haitami berkata: "Selama imam belum melafalkan huruf mim dari 'alaikum." (hal. 194)
 
-#shalat_berjamaah 
+#shalat_berjamaah #fiqih_shalat 

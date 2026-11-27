@@ -4,4 +4,4 @@
 
 Kita telah hidup selama sepuluh hari tanpa stok makanan dan air kecuali perbekalan survival. Begitulah tiga puluh hari perang ini berlalu. Kami telah menyelesaikan tiga kali khataman Quran. Sungguh aku membaca Al-Quran seolah-olah aku sedang mengunyah makanan dan mengisi perbekalan. Sungguh Al-Quran adalah gizi bagi ruh. (hal. 47 dengan ringkasan)
 
-#panji_thufan #ujian_fisabilillah #bersama_alquran #madrasah_jihad 
+ #ujian_fisabilillah #tarbiyah_al-quran  #madrasah_jihad 

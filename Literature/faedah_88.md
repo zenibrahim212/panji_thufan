@@ -8,4 +8,4 @@
 
 Sesunggungnya para dai perlu melakukan tajdid (pembaharuan) tema dakwah pada masyarakat. Mereka harus berbicara secara serius dan terus terang bukan dengan rasa sungkan dan berbelit-belit tentang perkara-perkara yang agung seperti: Jihad fisabilillah, semangat mendapatkan mati syahid, bashirah terhadap konspirasi kebatilan, perlawanan terhadap kezhaliman, menasihati pada setiap muslim, penggalangan umat pada urusan-urusan prioritas, penyatuan barisan dan penyatuan kalimat, tazkiyatun nafs dan akhlak yang melayakkan kita sebagai guru peradaban dunia, meninggalkan perdebatan dalam masalah khilafiyah seperti hukum fotografi, pembahasan mengenai isbal dan model berpakaian, hukum merayakan maulid Nabi dan khilaf dalam gerakan shalat... Karena tenggelam dalam persoalan-persoalan ini bukanlah bagian dari al-qaulu as-sadid (perkataan di atas al-haq): "Hai orang-orang yang beriman, bertakwalah kamu kepada Allah dan katakanlah perkataan di atas al-haq." (Al-Ahzab 70) (hal. 121-122 dengan ringkasan)
 
-#panji_thufan #tajdid_dakwah
+#tajdid_dakwah

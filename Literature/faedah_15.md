@@ -4,4 +4,4 @@
 
 Apakah engkau tahu apa itu syahadah fisabilillah? Sesungguhnya syahadah fisabilillah adalah tanda kehormatan tertinggi setelah syahadah tauhid dan menjadi sebaik-baik bukti atas kejujuranmu. Sehingga kehidupan setelah kesyahidan menjadi waktu singkat antara dua syahadah. (hal. 50)
 
-#panji_thufan #syahadah 
+ #syahadah 

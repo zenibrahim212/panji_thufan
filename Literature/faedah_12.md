@@ -12,4 +12,4 @@ Siapa yang mahir dalam menguasai seni industri kematian, maka kehidupan akan tun
 
 Umat yang mencari kematian akan mahir mengelola kehidupan. (hal. 320)
 
-#panji_thufan #syahadah 
+#syahadah 

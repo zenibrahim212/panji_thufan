@@ -4,4 +4,4 @@
 
 Kebebasan sejati adalah kematian fisabilillah. (hal. 50)
 
-#panji_thufan #syahadah
+ #syahadah
