@@ -7,4 +7,4 @@ Sayiduna Khabab radhiyallahu 'anhu tatkala merasakan pecah dadanya atas ujian pe
 
 Dari Khabab radhiyallahu 'anhu berkata: "Kami menemui Rasulullah shallallahu 'alahi wassalam saat itu sedang tiduran berbantalkan kain burdah terlindungi bayangan Kabah. Kami mengadu kepada beliau: 'Tidakkah engkau memohonkan pertolongan untuk kami? Tidakkah engkau berdoa untuk kami?' Seketika beliau duduk memerah wajahnya seraya bersabda: 'Sungguh pada kaum sebelum kalian ada seseorang yang ditangkap kemudian ditanam dalam tanah. Lalu gergaji dipasangkan di atas kepalanya dibelah tubuhnya menjadi dua. Namun hal itu tidak membuatnya meninggalkan agamanya. Dan ada orang yang disisir bagian antara daging dan tulang dengan sisir besi, namun itu juga tidak memalingkan dari agamanya. Demi Allah, sunguh Allah akan menyempurnakan urusan agama ini, hingga seorang pengendara leluasa berjalan antara Shan'a dan Hadramaut tidak takut kecuali pada Allah ta'ala dan kambing tidak takut pada serigala. Tetapi kalian terburu-buru ingin mendapat pertolongan Allah.'" (hal. 42)
 
-#ujian_fisabilillah #isti'jal #fiqih_sunan
+#ujian_fisabilillah #istijal #fiqih_sunan

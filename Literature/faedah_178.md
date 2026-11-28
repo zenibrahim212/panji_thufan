@@ -4,4 +4,4 @@
 
 Siapa yang meninggalkan shalat jumat dikarenakan udzur takut dan shalat dhuhur dia tidak mendapat dosa. Berkata Al-'Imrani: "Tidak wajib shalat jumat bagi yang merasa diri atau hartanya terancam." (hal. 199)
 
-#fiqih_shalat 
+#fiqih_shalat #shalat_jumat 

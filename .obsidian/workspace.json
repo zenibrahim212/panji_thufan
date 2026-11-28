@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_180.md",
+                "file": "Literature/faedah_26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "faedah_180"
+              "title": "faedah_26"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saba",
+                "query": "tag:#panji_thufan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/faedah_167_3.md",
+                "file": "Literature/faedah_26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,12 +186,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,34 +207,34 @@
       "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "226224ee52b4ca11",
+  "active": "f9e54f4f1b4cbc32",
   "lastOpenFiles": [
+    "Literature/faedah_24.md",
+    "Literature/faedah_23.md",
+    "Literature/faedah_14.md",
+    "Literature/faedah_12.md",
+    "Literature/faedah_21.md",
+    "Literature/faedah_17.md",
+    "Literature/faedah_16.md",
+    "Literature/faedah_15.md",
+    "Literature/faedah_13.md",
+    "Literature/faedah_10_1.md",
+    "Literature/faedah_25.md",
+    "Literature/faedah_102.md",
+    "Literature/faedah_02.md",
+    "Literature/faedah_02_1.md",
     "Literature/faedah_180.md",
     "Literature/faedah_179.md",
-    "MOC/MOC Thufan.md",
     "Literature/faedah_178.md",
-    "Literature/faedah_171.md",
     "Literature/faedah_177.md",
-    "Literature/faedah_173.md",
-    "Literature/faedah_174.md",
     "Literature/faedah_176.md",
-    "Literature/faedah_175.md",
-    "Literature/faedah_172.md",
+    "Literature/faedah_171.md",
     "Literature/faedah_170.md",
-    "Literature/faedah_169.md",
+    "Literature/faedah_168.md",
     "Literature/faedah_167_3.md",
     "Literature/faedah_167_2.md",
     "Literature/faedah_167_1.md",
-    "Literature/faedah_167.md",
-    "Literature/faedah_168.md",
     "Literature/faedah_166.md",
-    "Literature/faedah_165.md",
-    "Literature/faedah_164.md",
-    "Literature/faedah_163.md",
-    "Literature/faedah_161.md",
-    "Literature/faedah_162.md",
-    "Literature/faedah_160.md",
-    "Literature/faedah_158.md",
     "MOC"
   ]
 }

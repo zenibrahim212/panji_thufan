@@ -7,3 +7,5 @@ Imam An-Nawawi rahimahullah berkata: "Menghadap kiblat merupakan syarat sah shal
 قال شيخ الإسلام زكريا الأنصاري: «التوجه للقبلة بالصدر لا بالوجه»، وأثر هذه الفائدة أن المصلي قد يلتفت يمينا وشمالا بسبب ضيق النفق والخندق، فهذا لا يؤثر على صحة صلاته ما دامت طائفة من الصدر متجهة نحو القبلة، وكذلك لو التفت بوجهه يمينا وشمالا لأجل الحراسة والاستطلاع فلا بأس، وكذلك لو مشى خطوات للأمام أو الوراء ليرد على مكالمة الهاتف الآمن، فلا تبطل صلاته ما دام صدره إلى جهة القبلة. (ص ١٩٣)
 
 Syeikhul Islam Zakaria Al-Anshari berkata: "Cara menghadap kiblat dengan mengarahkan dada bukan wajah." Faedah dari fatwa ini adalah, di dalam terowongan bisa jadi kepala harus digerakkan ke kanan atau ke kiri karena sempitnya tempat. Maka gerakan ini tidak membatalkan shalat selama dada mengarahkan pada kiblat. Demikian pula tidak mengapa, jika kepala harus menoleh ke kanan dan ke kiri ketika berjaga-jaga dalam keadaan shalat. Demikian pula jika ia berjalan beberapa langkah ke depan atau ke belakang untuk mengoperasikan radio komando, shalatnya tidak batal selama dadanya mengarah ke kiblat. (hal. 193)
+
+#fiqih_shalat 

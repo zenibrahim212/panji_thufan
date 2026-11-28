@@ -4,4 +4,4 @@
 
 Siapa yang meninggalkan shalat jamaah atau shalat jumat karena alasan udzur yang diterima syariat seperti jalan berlumpur, hujan lebat, cuaca dingin, angin kencang di malam hari atau cuaca panas menyengat, menahan kencing dan buang air besar, makanan sudah terlanjur disiapkan, sakit, merawat orang sakit, berada di sisi kerabat yang sedang sakaratul maut, atau menunggu sesuatu yang hilang yang diharapkan kembali, keadaan khawatir akan kerusakan harta atau kehilangan seperti sedang memanggang roti yang ia khawatir dengan kesibukannya shalat berjamaah akan membuat rotinya gosong, takut dikalahkan rasa kantuk jika menunggu berjamaah dan lainnya yang telah disebutkan oleh para fuqaha tentang udzur-udzur yang dibolehkan meninggalkan shalat jamaah; maka tidak ada dosa atasnya. Jika dia shalat sendirian karena udzur yang dibenarkan syariat maka dia tetap mendapatkan pahala keutamaan shalat jamaah, karena ia tertinggal karena udzur yang menahannya. Seandainya udzur itu hilang maka dia akan shalat berjamaah. (hal. 200) 
 
-#fiqih_shalat #shalat_berjamaah 
+#fiqih_shalat #shalat_berjamaah #shalat_jumat 

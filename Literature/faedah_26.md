@@ -16,4 +16,4 @@ Sejujurnya aku merasakan kondisi psikologis Rasulullah shallallahu 'alaihi wassa
 
 Sesungguhnya hidayah hati sebuah kaum bukan menurut hawa nafsumu atau keinginanmu, tetapi hal itu urusannya Allah. Maka hendaknya fokus mendakwahi manusia dan melaksanakan kewajibanmu. Hasil bukanlah urusanmu, seakan-akan Allah berfirman: "Kamu yang menyeru dan Aku yang memberi hidayah." (hal. 115)
 
-#panji_thufan 
+#panji_thufan #idad 

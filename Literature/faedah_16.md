@@ -4,4 +4,4 @@
 
 Sungguh aku bersama para lelaki yang salah seorang dari mereka berharap tubuhnya menguap fisabilillah. Mereka adalah para syuhada yang sedang menunggu syahadah wafa (perjanjian). (hal. 50)
 
-#panji_thufan 
+#syahadah 

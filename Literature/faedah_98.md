@@ -4,4 +4,4 @@
 
 Shalat malam, di dalamnya terdapat ittiba' pada Rasulullah shallallahu 'alaihi wassalam, tazkiyatun nafs ("Sesungguhnya engkau memiliki kedudukan di sisi Kami selama engkau tidak memandang dirimu memiliki kedudukan), penguatan kaidah-kaidah mujahadah (menyelisihi hawa nafsu, senantiasa dalam perkara yang dicintai Allah, mengendalikan perkara yang dibolehkan) dan di dalamnya terdapat peneguhan pilar-pilar tazkiyatun nafs. (hal. 130)
 
-#panji_thufan #shalat_malam
+ #shalat_malam

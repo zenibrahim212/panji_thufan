@@ -4,4 +4,4 @@
 
 Wasiatku pada para pemuda umat, hendaknya rutin mengkaji biografi para syuhada, karena sungguh hal itu dapat menghidupkan hati dan membangkitkan jiwa kembali. Menelaah biografi syuhada lebih aku senangi dari pada lima puluh masalah fiqih. (hal. 49)
 
-#panji_thufan #keutamaan_manusia 
+#keutamaan_manusia 

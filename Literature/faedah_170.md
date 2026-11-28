@@ -8,3 +8,5 @@ Sujud itu di atas tujuh anggota tubuh: Kedua kaki, kedua telapak tangan, kedua l
 Bahwa bagian bawahnya harus terangkat lebih tinggi dari bagian atasnya; maksudnya bagian pinggul/bokongnya harus terangkat lebih tinggi daripada kepalanya ketika sedang dalam posisi sujud. Karena apabila bagian bawahnya sejajar dengan bagian atasnya, atau bagian bawahnya lebih tinggi dari bagian atasnya, maka tidak terhitung sedang bersujud dalam keadaan seperti itu. Sedangkan kita diperintahkan untuk bersujud seperti sujudnya Nabi shallallahu 'alaihi wassalam. 
 
 Terkadang terjadi sebagaian mujahid berjaga-jaga di mulut terowongan dengan duduk di tangga yang berdiri dekat pintu terowongan. Kemudian datanglah waktu shalat. Andai mereka shalat dalam kondisi demikian, tentu saja ketika bersujud kepala mereka lebih tinggi dari bagian pinggul/bokong. Maka yang lebih baik, jika situasi memungkinkan, hendaknya shalat di tempat kaki tangga supaya dapat menyempurnakan sujud. Adapan dalam kondisi musuh mendekat dan terjadi kontak senjata, maka shalat dengan tata cara yang mampu dilakukan. (hal. 195) 
+
+#fiqih_shalat 

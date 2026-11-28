@@ -40,4 +40,4 @@ Seandainya Allah ingin menjadikan di bumi manusia yang membaca Al-Quran, senanti
 
 Hal yang menarik perhatianku dalam Surat Saba adalah diangkatnya kembali kisah Dawud 'alaihissalam yang merupakan sebuah pesan bagi kaum kufar yang isinya: Janganlah kamu mengira Muhammad hanyalah orang miskin atau orang tua yang duduk dipojokkan bersama beberapa kambingnya!! Tidak demikian, tetapi dia adalah Nabi dan raja. Kerajaannya akan meliputi wilayah seluas kekuasaan raja Dawud dan Sulaiman 'alaihissalam. Dan Muhammad akan mengubah perpolitikan serta kebudayaan yang ada sesuai dengan yang dicintai dan diridhai Allah. (hal. 181)
 
-#panji_thufan #islam_agama_dan_negara
+#islam_agama_dan_negara

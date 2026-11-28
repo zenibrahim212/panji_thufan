@@ -4,5 +4,5 @@
 
 Apa penyebab Nabi shallallahu 'alahi wassalam marah dan memerah wajahnya pada Khabab? Syeikhuna DR. Muhammad Al-Asthal menjelaskan: Rasulullah shallallahu 'alaihi wassalam menganggap sikap Khabab telah menyimpang dari fiqih sunan (hukum-hukum sunatullah). Sehingga wajah beliau memerah karena sangat marah atas sikap terburu-buru (isti'jal) meminta pertolongan sebelum sempurna persiapan. (hal. 42)
 
-#isti'jal #i'dad #ujian_fisabilillah #fiqih_sunan
+#istijal #idad #ujian_fisabilillah #fiqih_sunan
 

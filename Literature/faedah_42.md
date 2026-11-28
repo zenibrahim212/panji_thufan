@@ -17,4 +17,4 @@ Sungguh mereka telah kehilangan seluruh nilai akhlak, tidak memperhatikan hak ta
 
 Demi Allah, andai yang meminta perlindungan padaku di masa-masa sulit itu seekor anjing, demi Allah akan aku berikan perlindungan. Akan tetapi siapa yang telah kehilangan pemahaman Islam berarti dia kehilangan akhlak. Dan tidaklah Allah diibadahi dengan bentuk ibadah yang lebih baik daripada kefaqihan dalam agama. (hal. 76-77)
 
-#panji_thufan 
+#ujian_fisabilillah #adab 
