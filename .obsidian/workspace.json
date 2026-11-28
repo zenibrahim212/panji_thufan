@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Literature/faedah_181.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "faedah_181"
+            }
+          },
+          {
+            "id": "f0f53fd548990bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MOC/MOC Thufan.md",
                 "mode": "source",
                 "source": true
@@ -22,21 +36,21 @@
             }
           },
           {
-            "id": "f9e54f4f1b4cbc32",
+            "id": "36163a30adac5fa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/faedah_26.md",
+                "file": "Literature/faedah_180.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "faedah_26"
+              "title": "faedah_180"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#panji_thufan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/faedah_26.md",
+                "file": "Literature/faedah_180.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,15 +213,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "smart-lookup:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false
+      "bases:Create new base": false
     }
   },
-  "active": "f9e54f4f1b4cbc32",
+  "active": "36163a30adac5fa9",
   "lastOpenFiles": [
+    "MOC/MOC Thufan.md",
+    "Literature/faedah_181.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled.base",
+    "Literature/faedah_180.md",
+    "Literature/faedah_26.md",
     "Literature/faedah_24.md",
     "Literature/faedah_23.md",
     "Literature/faedah_14.md",
@@ -223,7 +239,6 @@
     "Literature/faedah_102.md",
     "Literature/faedah_02.md",
     "Literature/faedah_02_1.md",
-    "Literature/faedah_180.md",
     "Literature/faedah_179.md",
     "Literature/faedah_178.md",
     "Literature/faedah_177.md",
@@ -232,9 +247,6 @@
     "Literature/faedah_170.md",
     "Literature/faedah_168.md",
     "Literature/faedah_167_3.md",
-    "Literature/faedah_167_2.md",
-    "Literature/faedah_167_1.md",
-    "Literature/faedah_166.md",
     "MOC"
   ]
 }
